@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bitcrane")(type "KiCad")(uri "${KIPRJMOD}/bitcrane.kicad_sym")(options "")(descr ""))
+  (lib (name "bitcart")(type "KiCad")(uri "${KIPRJMOD}/bitcart.kicad_sym")(options "")(descr ""))
+)
