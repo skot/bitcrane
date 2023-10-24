@@ -77,10 +77,10 @@
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp 5f741e50-9f0d-483c-bdcf-3be29539ed13))
   (fp_line (start 4.097 0.4) (end 4.097 -0.4)
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp 22482257-220b-49f2-897d-b022de1c4ccd))
-  (pad "1" thru_hole rect (at 0 0) (size 2.3 2.3) (drill 1.8) (layers "*.Cu") (tstamp cd50c1a4-ff9f-48cc-876e-c430be7aee8f))
-  (pad "2" thru_hole circle (at -4.2 0) (size 2.3 2.3) (drill 1.8) (layers "*.Cu") (tstamp bd1e138b-8cde-415c-a890-f8a84887f398))
+  (pad "1" thru_hole circle (at -4.2 0) (size 2.3 2.3) (drill 1.8) (layers "*.Cu") (tstamp bd1e138b-8cde-415c-a890-f8a84887f398))
+  (pad "2" thru_hole circle (at -4.2 -5.5) (size 2.3 2.3) (drill 1.8) (layers "*.Cu") (tstamp 8b862734-6f6b-4ae2-b22e-afa7c792e3f1))
   (pad "3" thru_hole circle (at 0 -5.5) (size 2.3 2.3) (drill 1.8) (layers "*.Cu") (tstamp 8a2da141-3c4c-47e3-9dc7-b2c0b514896c))
-  (pad "4" thru_hole circle (at -4.2 -5.5) (size 2.3 2.3) (drill 1.8) (layers "*.Cu") (tstamp 8b862734-6f6b-4ae2-b22e-afa7c792e3f1))
+  (pad "4" thru_hole circle (at 0 0) (size 2.3 2.3) (drill 1.8) (layers "*.Cu") (tstamp cd50c1a4-ff9f-48cc-876e-c430be7aee8f))
   (model "${KIPRJMOD}/3d/353180420.igs"
     (offset (xyz -2 -7.5 5))
     (scale (xyz 1 1 1))
