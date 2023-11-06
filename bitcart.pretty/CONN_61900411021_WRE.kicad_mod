@@ -42,7 +42,7 @@
   (pad "2" thru_hole circle (at 2.54 0) (size 1.5494 1.5494) (drill 1.0414) (layers "*.Cu" "*.Mask") (tstamp 90be8728-072c-4ada-aa15-13b42f7ed795))
   (pad "3" thru_hole circle (at 5.08 0) (size 1.5494 1.5494) (drill 1.0414) (layers "*.Cu" "*.Mask") (tstamp 2c68f29e-dbfc-4186-9332-e43db0db8a7a))
   (pad "4" thru_hole circle (at 7.62 0) (size 1.5494 1.5494) (drill 1.0414) (layers "*.Cu" "*.Mask") (tstamp ad56e591-0144-4ed3-a314-ecbed2b04e7f))
-  (model "${KIPRJMOD}/CM4IO.3dshapes/61900411021.stp"
+  (model "${KIPRJMOD}/3d/61900411021.stp"
     (offset (xyz 3.8 -7.5 3))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 180))
