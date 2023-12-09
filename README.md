@@ -5,4 +5,4 @@ introducing the bitcrane. a quick tool to spit bytes at an Antminer hashboard ov
 
 uses the [FTDI FT4232HQ](https://ftdichip.com/products/ft4232hq/)
 
-[DigiKey Parts List v1](https://www.digikey.com/en/mylists/list/JUGWIN7J9W)
+[DigiKey Parts List v2](https://www.digikey.com/en/mylists/list/G65P7WOTVV)
