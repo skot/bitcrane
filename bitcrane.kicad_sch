@@ -6,8 +6,8 @@
 
   (title_block
     (title "bitcrane")
-    (date "2023-12-07")
-    (rev "2")
+    (date "2024-01-11")
+    (rev "2.1")
   )
 
   (lib_symbols
@@ -5671,7 +5671,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 2c73200b-80ac-49cd-87da-7ea845fb36e0)
   )
-  (label "SDA3" (at 36.83 156.21 0) (fields_autoplaced)
+  (label "SDA3" (at 36.83 153.67 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 31fedd02-ef69-4ecb-b41a-76365516a779)
   )
@@ -5739,7 +5739,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 46a94654-ca90-4dfc-86f3-78a55d495230)
   )
-  (label "SCL3" (at 36.83 153.67 0) (fields_autoplaced)
+  (label "SCL3" (at 36.83 156.21 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 48ef933c-51e0-47e9-9d52-a26a2648c3f4)
   )
@@ -7201,6 +7201,41 @@
     )
   )
 
+  (symbol (lib_id "Connector:TestPoint") (at 243.84 254 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 375b905c-65e3-4548-a647-64157e1d5f09)
+    (property "Reference" "TP6" (at 248.285 254 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 244.5258 255.4732 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 243.84 259.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 243.84 259.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1cc30b96-80cd-4c92-ba43-311343718e3b))
+    (instances
+      (project "PSUs"
+        (path "/b1074f14-d9b1-488c-9ce1-52a2bed8b998"
+          (reference "TP6") (unit 1)
+        )
+      )
+      (project "bitcrane"
+        (path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+          (reference "TP30") (unit 1)
+        )
+      )
+      (project "bitcart"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005d31f999"
+          (reference "TP6") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 270.51 258.445 90) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 38725dcc-3061-4479-8436-22b81ab45dc3)
@@ -8624,6 +8659,41 @@
     )
   )
 
+  (symbol (lib_id "Connector:TestPoint") (at 243.84 248.92 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 7004fb7b-679d-4c97-bd97-298f979dac0a)
+    (property "Reference" "TP6" (at 248.285 248.92 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 244.5258 250.3932 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 243.84 254 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 243.84 254 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f658956c-ac23-4b5f-ac54-9922db1a31fb))
+    (instances
+      (project "PSUs"
+        (path "/b1074f14-d9b1-488c-9ce1-52a2bed8b998"
+          (reference "TP6") (unit 1)
+        )
+      )
+      (project "bitcrane"
+        (path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+          (reference "TP29") (unit 1)
+        )
+      )
+      (project "bitcart"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005d31f999"
+          (reference "TP6") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 43.18 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71722db0-8109-4860-b2e4-d1c6d1669c26)
@@ -9057,6 +9127,41 @@
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b61e4f2d-ce9e-412d-af58-c652a832eb5d"
           (reference "R28") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 243.84 264.16 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 87465d96-d250-4e7e-b66e-5a0ce1d76ec0)
+    (property "Reference" "TP6" (at 248.285 264.16 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 244.5258 265.6332 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 243.84 269.24 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 243.84 269.24 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 78ae937f-3d88-48a7-8826-321c3a85c802))
+    (instances
+      (project "PSUs"
+        (path "/b1074f14-d9b1-488c-9ce1-52a2bed8b998"
+          (reference "TP6") (unit 1)
+        )
+      )
+      (project "bitcrane"
+        (path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+          (reference "TP33") (unit 1)
+        )
+      )
+      (project "bitcart"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005d31f999"
+          (reference "TP6") (unit 1)
         )
       )
     )
@@ -9571,6 +9676,76 @@
     )
   )
 
+  (symbol (lib_id "Connector:TestPoint") (at 243.84 241.3 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid a346adc7-6114-4b4c-b9e8-c818035c938b)
+    (property "Reference" "TP6" (at 248.285 241.3 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 244.5258 242.7732 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 243.84 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 243.84 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7ba95172-afd1-4ba2-8c68-5b9cdee00df3))
+    (instances
+      (project "PSUs"
+        (path "/b1074f14-d9b1-488c-9ce1-52a2bed8b998"
+          (reference "TP6") (unit 1)
+        )
+      )
+      (project "bitcrane"
+        (path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+          (reference "TP27") (unit 1)
+        )
+      )
+      (project "bitcart"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005d31f999"
+          (reference "TP6") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 243.84 261.62 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid a448474f-19bb-42fb-9288-58371d951015)
+    (property "Reference" "TP6" (at 248.285 261.62 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 244.5258 263.0932 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 243.84 266.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 243.84 266.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0c5c9190-b683-401f-9282-3be42477f5c8))
+    (instances
+      (project "PSUs"
+        (path "/b1074f14-d9b1-488c-9ce1-52a2bed8b998"
+          (reference "TP6") (unit 1)
+        )
+      )
+      (project "bitcrane"
+        (path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+          (reference "TP32") (unit 1)
+        )
+      )
+      (project "bitcart"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005d31f999"
+          (reference "TP6") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C") (at 255.27 83.185 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a526c407-b1f4-4103-ad84-a2366520e4cd)
@@ -9598,6 +9773,41 @@
       (project "bitcrane"
         (path "/dad32d3d-71e4-4236-b088-31b84f800e98"
           (reference "C16") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 243.84 238.76 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid ac769691-a9e2-42da-8381-7d48c3f8f172)
+    (property "Reference" "TP6" (at 248.285 238.76 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 244.5258 240.2332 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 243.84 243.84 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 243.84 243.84 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d37d7eba-5e3b-4a31-9632-9c468e2527d6))
+    (instances
+      (project "PSUs"
+        (path "/b1074f14-d9b1-488c-9ce1-52a2bed8b998"
+          (reference "TP6") (unit 1)
+        )
+      )
+      (project "bitcrane"
+        (path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+          (reference "TP26") (unit 1)
+        )
+      )
+      (project "bitcart"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005d31f999"
+          (reference "TP6") (unit 1)
         )
       )
     )
@@ -10142,6 +10352,41 @@
     )
   )
 
+  (symbol (lib_id "Connector:TestPoint") (at 243.84 246.38 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid d7f638d9-0ae5-4064-a3bd-099862f5a1ae)
+    (property "Reference" "TP6" (at 248.285 246.38 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 244.5258 247.8532 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 243.84 251.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 243.84 251.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b553fce9-099b-44ef-bba7-1d57c51595cd))
+    (instances
+      (project "PSUs"
+        (path "/b1074f14-d9b1-488c-9ce1-52a2bed8b998"
+          (reference "TP6") (unit 1)
+        )
+      )
+      (project "bitcrane"
+        (path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+          (reference "TP28") (unit 1)
+        )
+      )
+      (project "bitcart"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005d31f999"
+          (reference "TP6") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "bitcrane:LOGO") (at 353.06 260.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d8bf8526-33a6-4a71-a35a-dab04381e277)
@@ -10352,6 +10597,41 @@
       (project "bitcrane"
         (path "/dad32d3d-71e4-4236-b088-31b84f800e98"
           (reference "TP19") (unit 1)
+        )
+      )
+      (project "bitcart"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005d31f999"
+          (reference "TP6") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 243.84 256.54 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid e65b4edb-c46b-40b3-ba8b-cc0d5b2d7fdb)
+    (property "Reference" "TP6" (at 248.285 256.54 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 244.5258 258.0132 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 243.84 261.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 243.84 261.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 35b0a597-bde4-4948-a533-38076bce8afb))
+    (instances
+      (project "PSUs"
+        (path "/b1074f14-d9b1-488c-9ce1-52a2bed8b998"
+          (reference "TP6") (unit 1)
+        )
+      )
+      (project "bitcrane"
+        (path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+          (reference "TP31") (unit 1)
         )
       )
       (project "bitcart"
