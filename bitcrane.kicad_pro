@@ -58,22 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|115719999|38440552|538edc7f-bdd4-4863-a206-d41b800af71c|b936386c-90cf-432d-8d35-7297f69b8071",
-        "courtyards_overlap|126859999|38440552|5f3a93bd-d6fe-404d-a8b0-a8234595b4d7|fc1b6a95-4d84-4540-a9e3-1351a576cfba",
-        "courtyards_overlap|137899999|38440552|1d3ebc49-951a-4ce1-8910-f1d0a7b7f65e|97bb1be5-5a68-4d5c-8d8b-e344b58552a8",
-        "courtyards_overlap|148919999|38440552|28920cb9-c796-46ef-a0e4-928c07f24f50|8d6d4ddf-4574-49db-8b57-7f09629f26db",
-        "hole_clearance|108200000|127730000|beb9ba9f-d93c-4626-9d2e-bbdcec3205b4|e7279961-7e88-419c-9ca9-4bfe57062e9d",
-        "hole_clearance|108200000|127730000|beb9ba9f-d93c-4626-9d2e-bbdcec3205b4|f3537949-e868-42d4-b676-bc534f514639",
-        "hole_clearance|108400000|127730000|beb9ba9f-d93c-4626-9d2e-bbdcec3205b4|515aa422-7e78-4e76-87e5-f5f61bf37639",
-        "hole_clearance|108400000|127730000|beb9ba9f-d93c-4626-9d2e-bbdcec3205b4|52f2319c-9499-4357-91ab-fd7c7330af37",
-        "hole_clearance|113800000|127730000|c9ed801e-890f-4c55-9027-eef85c05c596|680fb418-0dcf-491c-a8e8-d3ccda875d46",
-        "hole_clearance|113800000|127730000|c9ed801e-890f-4c55-9027-eef85c05c596|95fee742-b872-440e-af32-d7afb63e4722",
-        "hole_clearance|114000000|127730000|c9ed801e-890f-4c55-9027-eef85c05c596|3d3ec890-546d-40a8-8520-0d2af477bc13",
-        "hole_clearance|114000000|127730000|c9ed801e-890f-4c55-9027-eef85c05c596|ddf0af42-58e5-4e79-842b-680eb7740123",
-        "malformed_courtyard|113560000|97170000|c262b396-5ce3-4c98-99d3-7fb158c8fd88|00000000-0000-0000-0000-000000000000",
-        "malformed_courtyard|119770000|97170000|c262b396-5ce3-4c98-99d3-7fb158c8fd88|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -197,6 +182,7 @@
         0.0,
         0.25,
         0.5,
+        0.6,
         1.0
       ],
       "tuning_pattern_settings": {
@@ -229,6 +215,14 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.5
         }
       ],
       "zones_allow_external_fillets": false
