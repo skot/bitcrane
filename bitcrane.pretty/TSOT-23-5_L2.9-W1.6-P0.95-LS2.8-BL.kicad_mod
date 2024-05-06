@@ -1,0 +1,180 @@
+(footprint "TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -5.15 0)
+		(layer "F.SilkS")
+		(uuid "f816583a-695e-4aeb-8f25-eac5974bf7c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(at 0 5.15 0)
+		(layer "F.Fab")
+		(uuid "5bac4ed0-28cd-4bd6-9afc-c5bec21e79e8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6d66a32f-64a8-481d-a302-435807e258c4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a410c4e3-b20c-4b4e-81e0-6bdbf75821cb")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98399668-e390-4013-877d-5b970dd0cc90")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.55 0.9)
+		(end -1.55 -0.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "77571a59-0f0a-4147-bdf2-5b78f3cddc47")
+	)
+	(fp_line
+		(start 0.46 -0.9)
+		(end -0.46 -0.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "989e6e6f-54cd-452b-9e78-fea4ff338595")
+	)
+	(fp_line
+		(start 1.55 0.9)
+		(end 1.55 -0.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c7808892-8e66-4128-a3b9-5ad4b34ea73a")
+	)
+	(fp_circle
+		(center -1.67 1.3)
+		(end -1.52 1.3)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "6055ec91-f2fb-44a0-9921-bd58f966992b")
+	)
+	(fp_circle
+		(center -1.02 1.65)
+		(end -0.92 1.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "9c432617-6a11-4665-9018-4c4b2285f5c4")
+	)
+	(fp_circle
+		(center -1.45 1.4)
+		(end -1.42 1.4)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "caadc3fc-efbe-4cac-b369-8db9eeb1c56f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "685867a1-b73f-49c3-8f5b-b2967e3a72d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.95 1.15)
+		(size 0.53 1.05)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "636fbc29-cf56-488e-9df3-78d132682f4a")
+	)
+	(pad "2" smd rect
+		(at 0 1.15)
+		(size 0.53 1.05)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4e4b7609-5c32-4367-ae22-7ceba63ed582")
+	)
+	(pad "3" smd rect
+		(at 0.95 1.15)
+		(size 0.53 1.05)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c34ffb19-25fe-4fa6-b4cf-7885d1f9f2f3")
+	)
+	(pad "4" smd rect
+		(at 0.95 -1.15)
+		(size 0.53 1.05)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e3897130-2a57-4ede-b30c-df6670b32daa")
+	)
+	(pad "5" smd rect
+		(at -0.95 -1.15)
+		(size 0.53 1.05)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "278a0de6-66a3-4ef0-b332-658d1ca230f5")
+	)
+	(model "/Users/skot/Bitcoin/bitcrane/PCB/3d/TSOT-23-5_L2.9-W1.6-H1.00-LS2.8-P0.95.wrl"
+		(offset
+			(xyz 0 0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+)

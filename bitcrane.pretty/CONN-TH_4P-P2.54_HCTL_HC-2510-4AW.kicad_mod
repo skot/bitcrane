@@ -1,0 +1,189 @@
+(footprint "CONN-TH_4P-P2.54_HCTL_HC-2510-4AW"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.45 12.2 0)
+		(layer "F.SilkS")
+		(uuid "5cbcc6fc-396f-4f25-a78f-325e7f1cb0dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONN-TH_4P-P2.54_HCTL_HC-2510-4AW"
+		(at 2.87 -9.98 0)
+		(layer "F.Fab")
+		(uuid "b2864a3c-59ae-4d67-b806-9842001358ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "CONN-TH_4P-P2.54_HCTL_HC-2510-4AW"
+		(at 2.87 -13.98 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae1e77ec-162d-4ccb-a000-cd2a0669e23a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76ec2955-514b-4866-9fd7-e3c9e8cc1d46")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f956f04f-d828-4aa1-9490-7e7c22e51b85")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -5.11 3.2)
+		(end -5.11 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "12275164-6e1a-40a3-b5e9-6e6304a38e30")
+	)
+	(fp_line
+		(start -4.11 3.2)
+		(end -5.11 3.2)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1bfb9202-8a08-49f7-9a05-d192876b2884")
+	)
+	(fp_line
+		(start -4.11 11.34)
+		(end -4.11 3.2)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9391434d-9feb-4bf6-a317-e48917de2d05")
+	)
+	(fp_line
+		(start 4.11 11.34)
+		(end -4.11 11.34)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d0e12261-b246-457e-855e-5777cbd5974f")
+	)
+	(fp_line
+		(start 4.11 11.34)
+		(end 4.11 3.2)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f00432d-067c-4f0a-ac76-56c32a496d02")
+	)
+	(fp_line
+		(start 5.11 0)
+		(end 5.11 3.2)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aa7a503e-7096-4b83-bb98-8c00194c702b")
+	)
+	(fp_line
+		(start 5.11 3.2)
+		(end 4.11 3.2)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "87c9bbc6-1b94-445e-a746-5f5c8af062b1")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 11.14 -7.85 0)
+		(layer "F.Fab")
+		(uuid "cfd17e3e-9183-4921-ac6f-0b9f82370053")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3.81 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Paste" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "50745f7f-0d91-4375-b868-36c74f41a6bc")
+	)
+	(pad "2" thru_hole circle
+		(at -1.27 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Paste" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1d596248-c695-458e-b26c-5da27ab01b91")
+	)
+	(pad "3" thru_hole circle
+		(at 1.27 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Paste" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "658ebf50-2f51-4527-bb4d-7908ed0b8603")
+	)
+	(pad "4" thru_hole circle
+		(at 3.81 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Paste" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "afd38589-5877-4992-8093-618d4bcd5c6b")
+	)
+	(model "/Users/skot/Bitcoin/bitcrane/PCB/3d/CONN-TH_4P-P2.54_HCTL_HC-2510-4AW.wrl"
+		(offset
+			(xyz 0 -1.3 3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
