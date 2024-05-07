@@ -58,7 +58,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|109190000|126390000|7739fc73-6db8-40a0-92bb-7ebc9140a47f|2cf6a0c2-71b3-4c93-a2b4-b70c2142addc",
+        "clearance|113990000|126390000|b83b8ecb-05ff-4cf7-8fc2-190fa03ed022|3059f840-3058-44b5-bf01-7abb6338c0ad",
+        "hole_clearance|108190000|127630000|d5cc9730-25e2-452e-93c4-c033900bd6c1|091d1cf0-c043-4584-9b50-e4fe51f60fb3",
+        "hole_clearance|108390000|127630000|d5cc9730-25e2-452e-93c4-c033900bd6c1|5806d072-c659-48ce-8755-ad62d0c46d04",
+        "hole_clearance|113790000|127630000|abac23b2-ff24-4e89-8d17-08d36858083a|56bcfabf-1f08-47a9-aa68-68d3b9a7793a",
+        "hole_clearance|113990000|127630000|abac23b2-ff24-4e89-8d17-08d36858083a|3059f840-3058-44b5-bf01-7abb6338c0ad",
+        "malformed_courtyard|113560000|97170000|c262b396-5ce3-4c98-99d3-7fb158c8fd88|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|119770000|97170000|c262b396-5ce3-4c98-99d3-7fb158c8fd88|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -672,13 +681,19 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": ""
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
