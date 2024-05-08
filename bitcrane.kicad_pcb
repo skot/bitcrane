@@ -3514,7 +3514,7 @@
 			)
 		)
 		(property "Value" "RT9080-33GJ5"
-			(at 0 5.15 270)
+			(at 0 5.15 -90)
 			(layer "F.Fab")
 			(uuid "bf3e2dbf-2159-4fce-8ccb-86df2ab81a08")
 			(effects
@@ -3561,7 +3561,7 @@
 			)
 		)
 		(property "DK" "1028-1509-1-ND"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "636eea2b-21cf-4492-a818-586da6245991")
@@ -3573,7 +3573,7 @@
 			)
 		)
 		(property "PARTNO" "RT9080-33GJ5"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "da44f590-d555-4866-b15c-ea7f519cd942")
@@ -3666,7 +3666,7 @@
 			(uuid "feaae1f1-cb48-4b07-9639-21bb04f82039")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "7d82548a-af5b-4076-85c1-18c3b1e4d4b3")
 			(effects
@@ -4427,7 +4427,7 @@
 				)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "455-B18B-PHDSS-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6443,7 +6443,7 @@
 				)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "311-1104-1-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6903,7 +6903,7 @@
 				)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "4.7uF"
 			(at 0 1.68 180)
 			(layer "F.Fab")
 			(uuid "58a32e1f-ea15-44c1-81cf-9716f7161d54")
@@ -6950,7 +6950,7 @@
 				)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "1276-1065-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8218,7 +8218,7 @@
 				)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "BZX84C12LT1GOSCT-ND"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -10526,7 +10526,7 @@
 				)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "4.7uF"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "5fca7abc-03d2-4e81-ae67-5faf06060253")
@@ -10573,7 +10573,7 @@
 				)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "1276-1065-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15135,7 +15135,7 @@
 				)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "535-9141-1-ND"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15844,7 +15844,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0.06 1.53 -90)
+			(at 0.06 1.53 90)
 			(layer "F.SilkS")
 			(uuid "9cd6ee67-ee9d-47ff-8ff9-0695a7437730")
 			(effects
@@ -15855,7 +15855,7 @@
 			)
 		)
 		(property "Value" "27pf"
-			(at 0 1.68 -90)
+			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "dd07da9f-65eb-48a0-9be5-b873709a8b9a")
 			(effects
@@ -15901,8 +15901,8 @@
 				)
 			)
 		)
-		(property "DK" ""
-			(at 0 0 0)
+		(property "DK" "1276-2622-1-ND"
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a782ddf-9956-4b26-a252-9d9843dd41fa")
@@ -15914,7 +15914,7 @@
 			)
 		)
 		(property "PARTNO" "CC0805JRNPO9BN270"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bc811df7-833b-4e1e-a3f8-c9ce3f32a4bd")
@@ -16057,7 +16057,7 @@
 			(uuid "affd1dae-6b08-4c79-92d1-7bb08ae1d427")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "fa54f17b-7cc8-41a7-8b3a-c3aca9119621")
 			(effects
@@ -17117,7 +17117,7 @@
 			)
 		)
 		(property "Value" "M93C46-WDW6TP"
-			(at 0 6.93 270)
+			(at 0 6.93 -90)
 			(layer "F.Fab")
 			(uuid "2ba5c077-6dea-45b6-8021-31bfed159f61")
 			(effects
@@ -17164,7 +17164,7 @@
 			)
 		)
 		(property "DK" "497-8655-1-ND"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c92c81dd-e89e-458d-8350-6605f1a86d2d")
@@ -17176,7 +17176,7 @@
 			)
 		)
 		(property "PARTNO" "M93C46-WDW6TP"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "25b3b512-1114-4b57-bc4f-5fb5e4a1bd94")
@@ -17277,7 +17277,7 @@
 			(uuid "2304ad1a-1702-4027-8cf9-5bd32eea0844")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "6faf1411-abaf-46ad-a562-8f5c52db5706")
 			(effects
@@ -22767,7 +22767,7 @@
 				)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "455-B18B-PHDSS-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25442,7 +25442,7 @@
 				)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "455-B18B-PHDSS-ND"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
