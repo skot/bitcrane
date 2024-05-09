@@ -13491,7 +13491,7 @@
 		(fields_autoplaced yes)
 		(uuid "1222c47a-d016-47a0-9021-a158cdcd8920")
 		(property "Reference" "C21"
-			(at 156.21 134.62 0)
+			(at 156.21 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13499,8 +13499,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
-			(at 156.21 137.16 0)
+		(property "Value" "4.7uF"
+			(at 156.21 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23907,7 +23907,7 @@
 		(fields_autoplaced yes)
 		(uuid "fcdd2140-1e84-49ee-8e58-b1f5c300b3fd")
 		(property "Reference" "C18"
-			(at 142.24 134.62 0)
+			(at 142.24 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23915,8 +23915,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
-			(at 142.24 137.16 0)
+		(property "Value" "4.7uF"
+			(at 142.24 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
