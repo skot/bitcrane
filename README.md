@@ -1,5 +1,5 @@
 # bitcrane
-![the render](doc/bitcrane.png "Render")
+![the render](https://github.com/BeeEvolved/bitcrane/blob/master/doc/crane.jpg)
 
 introducing the bitcrane. a quick tool to spit bytes at an Antminer hashboard over USB (and control fans & PSU).
 
