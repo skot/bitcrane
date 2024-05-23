@@ -3514,7 +3514,7 @@
 			)
 		)
 		(property "Value" "RT9080-33GJ5"
-			(at 0 5.15 270)
+			(at 0 5.15 -90)
 			(layer "F.Fab")
 			(uuid "bf3e2dbf-2159-4fce-8ccb-86df2ab81a08")
 			(effects
@@ -3561,7 +3561,7 @@
 			)
 		)
 		(property "DK" "1028-1509-1-ND"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "636eea2b-21cf-4492-a818-586da6245991")
@@ -3573,7 +3573,7 @@
 			)
 		)
 		(property "PARTNO" "RT9080-33GJ5"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "da44f590-d555-4866-b15c-ea7f519cd942")
@@ -3666,7 +3666,7 @@
 			(uuid "feaae1f1-cb48-4b07-9639-21bb04f82039")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "7d82548a-af5b-4076-85c1-18c3b1e4d4b3")
 			(effects
@@ -8986,20 +8986,7 @@
 				)
 			)
 		)
-		(property "JLCPCB" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "88698831-9b30-4d9a-b075-93590c4170bd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC" "C116352"
+		(property "LCSC" "C28323"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13908,20 +13895,7 @@
 				)
 			)
 		)
-		(property "JLCPCB" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "125b2954-cf27-43a7-96d0-ed469458ea9a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC" "C116352"
+		(property "LCSC" "C28323"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15111,7 +15085,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-X322512MOB4SI_C70565.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17117,7 +17091,7 @@
 			)
 		)
 		(property "Value" "M93C46-WDW6TP"
-			(at 0 6.93 270)
+			(at 0 6.93 -90)
 			(layer "F.Fab")
 			(uuid "2ba5c077-6dea-45b6-8021-31bfed159f61")
 			(effects
@@ -17164,7 +17138,7 @@
 			)
 		)
 		(property "DK" "497-8655-1-ND"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c92c81dd-e89e-458d-8350-6605f1a86d2d")
@@ -17176,7 +17150,7 @@
 			)
 		)
 		(property "PARTNO" "M93C46-WDW6TP"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "25b3b512-1114-4b57-bc4f-5fb5e4a1bd94")
@@ -17277,7 +17251,7 @@
 			(uuid "2304ad1a-1702-4027-8cf9-5bd32eea0844")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "6faf1411-abaf-46ad-a562-8f5c52db5706")
 			(effects
