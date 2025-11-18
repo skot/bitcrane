@@ -33,3 +33,6 @@ fp-info-cache
 
 *.zip
 
+# Manufacturing files
+manufacturing files/
+

@@ -13287,7 +13287,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 480.06 294.64 0)
 			(effects
 				(font
@@ -13296,7 +13296,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 480.06 294.64 0)
 			(effects
 				(font
@@ -13567,6 +13567,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25897"
+			(at 224.79 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7696e620-3faa-477f-b57a-274171357968")
 		)
@@ -13645,7 +13654,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RMCF0805FT12K0"
+		(property "PARTNO" ""
 			(at 114.3 96.52 0)
 			(effects
 				(font
@@ -13654,7 +13663,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25752"
 			(at 114.3 96.52 0)
 			(effects
 				(font
@@ -13763,7 +13772,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-0710KL"
+		(property "PARTNO" "RC0402JR-0710KL"
 			(at 90.17 326.39 0)
 			(effects
 				(font
@@ -14123,7 +14132,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 426.72 281.94 0)
 			(effects
 				(font
@@ -14132,7 +14141,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 426.72 281.94 0)
 			(effects
 				(font
@@ -14359,7 +14368,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 426.72 210.82 0)
 			(effects
 				(font
@@ -14368,7 +14377,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 426.72 210.82 0)
 			(effects
 				(font
@@ -15006,6 +15015,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25744"
+			(at 388.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5405064b-02ea-4cce-8f93-8a2a62ce5c00")
 		)
@@ -15107,6 +15125,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 346.71 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5248642"
 			(at 346.71 64.77 0)
 			(effects
 				(font
@@ -15233,6 +15260,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C106235"
+			(at 336.55 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "afe62ab3-27d5-4191-b6a7-09ed238cc362")
 		)
@@ -15334,6 +15370,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 346.71 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5248642"
 			(at 346.71 114.3 0)
 			(effects
 				(font
@@ -15451,6 +15496,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C165455"
+			(at 394.97 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "acd6013f-1990-4f8b-ac19-5482de1928bb")
 		)
@@ -15527,7 +15581,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 480.06 218.44 0)
 			(effects
 				(font
@@ -15536,7 +15590,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 480.06 218.44 0)
 			(effects
 				(font
@@ -15718,7 +15772,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 477.52 210.82 0)
 			(effects
 				(font
@@ -15727,7 +15781,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 477.52 210.82 0)
 			(effects
 				(font
@@ -15938,6 +15992,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 388.62 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
 			(at 388.62 63.5 90)
 			(effects
 				(font
@@ -16170,7 +16233,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 426.72 243.84 0)
 			(effects
 				(font
@@ -16179,7 +16242,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 426.72 243.84 0)
 			(effects
 				(font
@@ -16285,7 +16348,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 426.72 285.75 0)
 			(effects
 				(font
@@ -16294,7 +16357,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 426.72 285.75 0)
 			(effects
 				(font
@@ -16425,6 +16488,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 346.71 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5248642"
 			(at 346.71 138.43 0)
 			(effects
 				(font
@@ -16625,7 +16697,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 482.6 213.36 0)
 			(effects
 				(font
@@ -16634,7 +16706,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 482.6 213.36 0)
 			(effects
 				(font
@@ -16981,6 +17053,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5248642"
+			(at 346.71 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "0a42a37b-0959-4db6-a05c-3eb3e6b4df9c")
 		)
@@ -17262,7 +17343,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL21B104KCFNNNE"
+		(property "PARTNO" "KGM05AR71C104KH"
 			(at 134.62 82.55 0)
 			(effects
 				(font
@@ -17271,7 +17352,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C307331"
 			(at 134.62 82.55 0)
 			(effects
 				(font
@@ -17806,7 +17887,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 477.52 247.65 0)
 			(effects
 				(font
@@ -17815,7 +17896,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 477.52 247.65 0)
 			(effects
 				(font
@@ -18026,6 +18107,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15578"
+			(at 124.46 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "04151545-281b-409a-80e8-4e453bd6c742")
 		)
@@ -18108,7 +18198,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 426.72 205.74 0)
 			(effects
 				(font
@@ -18117,7 +18207,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 426.72 205.74 0)
 			(effects
 				(font
@@ -18420,6 +18510,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C3702980"
+			(at 132.08 199.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "65ee2cb5-1ea5-4986-97db-c32c52c02e5c")
 		)
@@ -18638,6 +18737,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 336.55 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C106235"
 			(at 336.55 114.3 90)
 			(effects
 				(font
@@ -18918,6 +19026,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 388.62 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
 			(at 388.62 113.03 90)
 			(effects
 				(font
@@ -19208,7 +19325,7 @@
 				)
 			)
 		)
-		(property "Value" "GT-TC029B-H025-L1N"
+		(property "Value" "TS-1088-AR02016"
 			(at 201.93 241.3 0)
 			(effects
 				(font
@@ -19217,7 +19334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "bitaxe:SW_CS1213AGF260_CRS"
+		(property "Footprint" "bitcrane:SW-SMD_L3.9-W3.0-P4.45"
 			(at 201.93 252.73 0)
 			(effects
 				(font
@@ -19226,7 +19343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.citrelay.com/Catalog%20Pages/SwitchCatalog/CS1213.pdf"
+		(property "Datasheet" ""
 			(at 201.93 255.27 0)
 			(effects
 				(font
@@ -19244,7 +19361,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "2449-CS1213AGF260CT-ND"
+		(property "DK" ""
 			(at 201.93 245.11 0)
 			(effects
 				(font
@@ -19253,7 +19370,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CS1213AGF260"
+		(property "PARTNO" ""
 			(at 201.93 245.11 0)
 			(effects
 				(font
@@ -19271,7 +19388,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C720477"
+			(at 201.93 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C720477"
 			(at 201.93 245.11 0)
 			(effects
 				(font
@@ -19497,6 +19623,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C165455"
+			(at 394.97 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54f45772-44c0-4c1a-bd9b-bff1c23867f1")
 		)
@@ -19657,7 +19792,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 481.33 256.54 0)
 			(effects
 				(font
@@ -19666,7 +19801,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 481.33 256.54 0)
 			(effects
 				(font
@@ -19773,7 +19908,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 477.52 205.74 0)
 			(effects
 				(font
@@ -19782,7 +19917,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 477.52 205.74 0)
 			(effects
 				(font
@@ -20205,7 +20340,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 477.52 243.84 0)
 			(effects
 				(font
@@ -20214,7 +20349,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 477.52 243.84 0)
 			(effects
 				(font
@@ -20573,7 +20708,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 482.6 250.19 0)
 			(effects
 				(font
@@ -20582,7 +20717,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 482.6 250.19 0)
 			(effects
 				(font
@@ -20688,7 +20823,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 482.6 288.29 0)
 			(effects
 				(font
@@ -20697,7 +20832,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 482.6 288.29 0)
 			(effects
 				(font
@@ -20834,6 +20969,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 336.55 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C106235"
 			(at 336.55 90.17 90)
 			(effects
 				(font
@@ -21016,6 +21160,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 394.97 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C165455"
 			(at 394.97 67.31 90)
 			(effects
 				(font
@@ -21621,7 +21774,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 477.52 281.94 0)
 			(effects
 				(font
@@ -21630,7 +21783,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 477.52 281.94 0)
 			(effects
 				(font
@@ -22399,6 +22552,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C3702980"
+			(at 140.97 191.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "002bbe12-fc7b-4294-b5b7-db1414c23d43")
 		)
@@ -22573,6 +22735,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 130.81 181.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C364284"
 			(at 130.81 181.61 90)
 			(effects
 				(font
@@ -22835,6 +23006,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C165455"
+			(at 394.97 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fd6f30d-97c7-417c-a6b4-d1ca8c0821b9")
 		)
@@ -22942,6 +23122,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 336.55 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C106235"
 			(at 336.55 64.77 90)
 			(effects
 				(font
@@ -23438,7 +23627,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL21B105KAFNNNE"
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 104.14 264.16 0)
 			(effects
 				(font
@@ -23447,7 +23636,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C52923"
 			(at 104.14 264.16 0)
 			(effects
 				(font
@@ -23641,7 +23830,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 477.52 285.75 0)
 			(effects
 				(font
@@ -23650,7 +23839,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 477.52 285.75 0)
 			(effects
 				(font
@@ -23756,7 +23945,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0805FR-074K7L"
+		(property "PARTNO" ""
 			(at 426.72 247.65 0)
 			(effects
 				(font
@@ -23765,7 +23954,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C25900"
 			(at 426.72 247.65 0)
 			(effects
 				(font
@@ -24223,6 +24412,15 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 388.62 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
 			(at 388.62 88.9 90)
 			(effects
 				(font
@@ -25039,7 +25237,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL21B105KAFNNNE"
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 142.24 264.16 0)
 			(effects
 				(font
@@ -25048,7 +25246,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C52923"
 			(at 142.24 264.16 0)
 			(effects
 				(font
@@ -25280,7 +25478,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL21B104KCFNNNE"
+		(property "PARTNO" "KGM05AR71C104KH"
 			(at 92.71 83.82 0)
 			(effects
 				(font
@@ -25289,7 +25487,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C307331"
 			(at 92.71 83.82 0)
 			(effects
 				(font
@@ -25353,7 +25551,7 @@
 				)
 			)
 		)
-		(property "Value" "GT-TC029B-H025-L1N"
+		(property "Value" "TS-1088-AR02016"
 			(at 201.93 259.08 0)
 			(effects
 				(font
@@ -25362,7 +25560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "bitaxe:SW_CS1213AGF260_CRS"
+		(property "Footprint" "bitcrane:SW-SMD_L3.9-W3.0-P4.45"
 			(at 201.93 270.51 0)
 			(effects
 				(font
@@ -25371,7 +25569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.citrelay.com/Catalog%20Pages/SwitchCatalog/CS1213.pdf"
+		(property "Datasheet" ""
 			(at 201.93 273.05 0)
 			(effects
 				(font
@@ -25389,7 +25587,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "2449-CS1213AGF260CT-ND"
+		(property "DK" ""
 			(at 201.93 262.89 0)
 			(effects
 				(font
@@ -25398,7 +25596,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CS1213AGF260"
+		(property "PARTNO" ""
 			(at 201.93 262.89 0)
 			(effects
 				(font
@@ -25407,7 +25605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" ""
+		(property "LCSC Part" "C720477"
 			(at 201.93 262.89 0)
 			(effects
 				(font
@@ -25416,7 +25614,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC" "C720477"
 			(at 201.93 262.89 0)
 			(effects
 				(font
