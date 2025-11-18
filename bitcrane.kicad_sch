@@ -4088,178 +4088,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "bitaxe:RT9080-33GJ5"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -6.35 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "RT9080-33GJ5"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "TSOT-23-5_RIT"
-				(at 49.53 17.78 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at -8.89 1.27 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "TSOT-23-5_RIT TSOT-23-5_RIT-M TSOT-23-5_RIT-L"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RT9080-33GJ5_1_1"
-				(rectangle
-					(start -6.35 3.81)
-					(end 6.35 -3.81)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin power_in line
-					(at -8.89 1.27 0)
-					(length 2.54)
-					(name "VIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -8.89 -1.27 0)
-					(length 2.54)
-					(name "EN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at 0 6.35 270)
-					(length 2.54)
-					(hide yes)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 8.89 1.27 180)
-					(length 2.54)
-					(name "VOUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 8.89 -1.27 180)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "bitcart:0455580003"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5999,6 +5827,172 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "bitcrane:TLV1117LV33DCYR"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U4"
+				(at 0 12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TLV1117LV33DCYR"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "bitcrane:VREG_TLV1117LV33DCYR"
+				(at 2.54 -16.764 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf"
+				(at 0.762 -18.796 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DK" "296-28778-1-ND"
+				(at 1.016 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTNO" "TLV1117LV33DCYR"
+				(at 1.016 -23.876 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Field6" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TLV1117LV33DCYR_1_0"
+				(rectangle
+					(start -6.35 7.62)
+					(end 6.35 0)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -8.89 5.08 0)
+					(length 2.54)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 8.89 5.08 180)
+					(length 2.54)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 8.89 5.08 180)
+					(length 2.54)
+					(hide yes)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 8.89 2.54 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "emberone:W25Q16JVUXIQ_TR"
 			(pin_names
 				(offset 0.254)
@@ -6431,6 +6425,16 @@
 		)
 		(uuid "6a4b5df0-4377-4335-8b2f-754fa9ffdea2")
 	)
+	(text "PWM3"
+		(exclude_from_sim no)
+		(at 272.542 302.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "776f66ca-b6c2-46a0-9e19-5040013e236c")
+	)
 	(text "Fan 4"
 		(exclude_from_sim no)
 		(at 481.076 137.922 0)
@@ -6691,6 +6695,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a9bcd66-1b9f-4bd6-90d7-2a574814f835")
+	)
+	(junction
+		(at 104.14 271.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1ad6f465-f511-4aa3-a075-2a37d928c3a1")
 	)
 	(junction
 		(at 290.83 212.09)
@@ -7089,12 +7099,6 @@
 		(uuid "dbfe2a52-ddfc-4e01-988e-30e9230359f3")
 	)
 	(junction
-		(at 113.03 257.81)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc0fb299-e53c-4610-a53c-dda1bf4fb63f")
-	)
-	(junction
 		(at 472.44 213.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7175,16 +7179,8 @@
 		(uuid "72370990-2647-4b3a-8b33-ccac070f74a2")
 	)
 	(no_connect
-		(at 287.02 313.69)
-		(uuid "75a4624c-3b8a-40ca-b103-7f9218994dad")
-	)
-	(no_connect
 		(at 287.02 321.31)
 		(uuid "9f1cd750-b29a-49d9-a7cd-d70462a533f5")
-	)
-	(no_connect
-		(at 287.02 316.23)
-		(uuid "a197668d-fa39-4be2-afa3-19ba34a3ad59")
 	)
 	(no_connect
 		(at 457.2 273.05)
@@ -7550,6 +7546,16 @@
 	)
 	(wire
 		(pts
+			(xy 287.02 300.99) (xy 303.53 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12bb1aac-3867-4345-9387-2c24f552420f")
+	)
+	(wire
+		(pts
 			(xy 349.25 95.25) (xy 349.25 97.79)
 		)
 		(stroke
@@ -7680,7 +7686,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 300.99) (xy 303.53 300.99)
+			(xy 287.02 313.69) (xy 303.53 313.69)
 		)
 		(stroke
 			(width 0)
@@ -7710,7 +7716,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 257.81) (xy 113.03 257.81)
+			(xy 104.14 257.81) (xy 115.57 257.81)
 		)
 		(stroke
 			(width 0)
@@ -8047,16 +8053,6 @@
 			(type default)
 		)
 		(uuid "38cc07e5-ff0e-4c6d-81b7-e9400201e271")
-	)
-	(wire
-		(pts
-			(xy 113.03 260.35) (xy 113.03 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "398c9909-b1df-41ee-b8ae-3fffb155aa05")
 	)
 	(wire
 		(pts
@@ -8730,7 +8726,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 303.53) (xy 303.53 303.53)
+			(xy 287.02 316.23) (xy 303.53 316.23)
 		)
 		(stroke
 			(width 0)
@@ -9660,16 +9656,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 257.81) (xy 115.57 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98c53f2d-2457-4a82-b824-fce8445782bb")
-	)
-	(wire
-		(pts
 			(xy 435.61 278.13) (xy 444.5 278.13)
 		)
 		(stroke
@@ -10260,6 +10246,16 @@
 	)
 	(wire
 		(pts
+			(xy 287.02 303.53) (xy 303.53 303.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba1fda59-5da6-48f9-b5fc-5fca25d0e06a")
+	)
+	(wire
+		(pts
 			(xy 90.17 328.93) (xy 90.17 330.2)
 		)
 		(stroke
@@ -10377,16 +10373,6 @@
 			(type default)
 		)
 		(uuid "c0ce7bde-d6be-4a38-8122-bbea474e8131")
-	)
-	(wire
-		(pts
-			(xy 115.57 260.35) (xy 113.03 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c14488fd-13d3-436f-a528-2506a09b3767")
 	)
 	(wire
 		(pts
@@ -11708,6 +11694,16 @@
 		)
 		(uuid "2c73200b-80ac-49cd-87da-7ea845fb36e0")
 	)
+	(label "FAN4_TACH"
+		(at 288.29 303.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2f2ca3af-de82-419d-94f3-f1bf90784c53")
+	)
 	(label "FAN2_TACH"
 		(at 374.65 88.9 0)
 		(effects
@@ -11769,7 +11765,7 @@
 		(uuid "37243fb2-75fc-4e32-a864-16323de2f038")
 	)
 	(label "RST2"
-		(at 288.29 300.99 0)
+		(at 288.29 313.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12448,6 +12444,16 @@
 		)
 		(uuid "950da79c-1989-47bc-8404-db02f4c7bb91")
 	)
+	(label "FAN4_PWM"
+		(at 288.29 300.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95931aff-397b-4434-9362-3702318ae6b2")
+	)
 	(label "A10"
 		(at 435.61 210.82 0)
 		(effects
@@ -12509,7 +12515,7 @@
 		(uuid "9b7462b8-7bf2-4b97-a253-f02509ece697")
 	)
 	(label "PLUG2"
-		(at 288.29 303.53 0)
+		(at 288.29 316.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15261,7 +15267,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 303.53 300.99 270)
+		(at 303.53 313.69 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -15269,7 +15275,7 @@
 		(dnp no)
 		(uuid "1d164e27-d7ed-4b44-879e-8894d2ae0107")
 		(property "Reference" "TP27"
-			(at 307.975 300.99 90)
+			(at 307.975 313.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15278,7 +15284,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 304.2158 302.4632 0)
+			(at 304.2158 315.1632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15288,7 +15294,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 306.07 0)
+			(at 303.53 318.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15297,7 +15303,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 303.53 306.07 0)
+			(at 303.53 318.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15306,7 +15312,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 303.53 300.99 0)
+			(at 303.53 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15836,7 +15842,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 303.53 303.53 270)
+		(at 303.53 316.23 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -15844,7 +15850,7 @@
 		(dnp no)
 		(uuid "321b9484-980d-4db9-9a80-1518ed417ca8")
 		(property "Reference" "TP28"
-			(at 307.975 303.53 90)
+			(at 307.975 316.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15853,7 +15859,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 304.2158 305.0032 0)
+			(at 304.2158 317.7032 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15863,7 +15869,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 308.61 0)
+			(at 303.53 321.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15872,7 +15878,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 303.53 308.61 0)
+			(at 303.53 321.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15881,7 +15887,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 303.53 303.53 0)
+			(at 303.53 316.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17023,6 +17029,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 303.53 300.99 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "46f7177a-844f-418a-8ff6-dd3ef39d9263")
+		(property "Reference" "TP32"
+			(at 307.975 300.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 304.2158 302.4632 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 303.53 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 303.53 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 303.53 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fc56af69-d05b-454f-8201-ed890bff5505")
+		)
+		(instances
+			(project "bitcrane"
+				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+					(reference "TP32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 226.06 217.17 180)
 		(unit 1)
@@ -17879,6 +17952,108 @@
 		)
 	)
 	(symbol
+		(lib_id "bitcrane:TLV1117LV33DCYR")
+		(at 124.46 262.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55ba5afb-6cbe-4b41-b1b6-4e10dc12cbc5")
+		(property "Reference" "U4"
+			(at 124.46 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TLV1117LV33DCYR"
+			(at 124.46 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "bitcrane:VREG_TLV1117LV33DCYR"
+			(at 127 279.654 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf"
+			(at 125.222 281.686 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 124.46 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK" "296-28778-1-ND"
+			(at 125.476 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "TLV1117LV33DCYR"
+			(at 125.476 286.766 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field6" ""
+			(at 124.46 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "04151545-281b-409a-80e8-4e453bd6c742")
+		)
+		(pin "1"
+			(uuid "3844d530-8aa4-452e-b75f-e13c06a0a03c")
+		)
+		(pin "2"
+			(uuid "97518774-5255-4ea2-a7ab-8dac8dccbc85")
+		)
+		(pin "4"
+			(uuid "96192a65-3344-4331-a781-ee0a07978172")
+		)
+		(instances
+			(project "bitcrane"
+				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 426.72 205.74 90)
 		(unit 1)
@@ -18135,122 +18310,6 @@
 			(project "bitcart"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b61e4f2d-ce9e-412d-af58-c652a832eb5d"
 					(reference "J13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "bitaxe:RT9080-33GJ5")
-		(at 124.46 259.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5aa7a217-2ee2-4048-a382-680244fd33c8")
-		(property "Reference" "U4"
-			(at 124.46 250.698 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RT9080-33GJ5"
-			(at 124.46 253.238 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "bitcrane:TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL"
-			(at 173.99 241.3 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.richtek.com/assets/product_file/RT9080/DS9080-05.pdf"
-			(at 115.57 257.81 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 124.46 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DK" "1028-1509-1-ND"
-			(at 124.46 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "RT9080-33GJ5"
-			(at 124.46 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C841192"
-			(at 124.46 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7f2d7f85-22ad-48ee-bec6-9fbb68ac07ca")
-		)
-		(pin "2"
-			(uuid "7df353da-c724-45c3-8ab1-71c01f732851")
-		)
-		(pin "3"
-			(uuid "c96cfba1-d889-4710-ba83-7e89cae65741")
-		)
-		(pin "4"
-			(uuid "86cacdd4-f551-48ac-b42a-096e4664cce8")
-		)
-		(pin "5"
-			(uuid "e61eabbf-557b-4411-9637-12ec1ecd11c8")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "U4")
-					(unit 1)
-				)
-			)
-			(project "esp32"
-				(path "/dcd2fc1c-da48-40a9-b97c-5712d9530f4f"
-					(reference "U11")
-					(unit 1)
-				)
-			)
-			(project "bitaxeUltra"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ca857324-2ec8-447e-bd58-90d0c2e6b6d7"
-					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -21469,6 +21528,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 303.53 303.53 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "b564a379-1d53-4314-96b4-a545ea160868")
+		(property "Reference" "TP33"
+			(at 307.975 303.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 304.2158 305.0032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 303.53 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 303.53 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 303.53 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cc1aab1c-a300-49f0-af36-281e25f1fd8c")
+		)
+		(instances
+			(project "bitcrane"
+				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+					(reference "TP33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_02x02_Counter_Clockwise")
 		(at 464.82 132.08 0)
 		(unit 1)
@@ -22072,6 +22198,73 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 104.14 271.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "c3d3865d-ba00-47af-b51e-a4705c24e72f")
+		(property "Reference" "TP31"
+			(at 99.695 271.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 103.4542 270.3068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 104.14 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db20fe49-6731-43f1-89a9-5e5720cb6b93")
+		)
+		(instances
+			(project "bitcrane"
+				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
+					(reference "TP31")
 					(unit 1)
 				)
 			)

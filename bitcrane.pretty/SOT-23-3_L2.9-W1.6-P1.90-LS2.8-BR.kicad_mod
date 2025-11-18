@@ -1,7 +1,7 @@
 (footprint "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -4.95 0)
@@ -25,18 +25,6 @@
 			)
 		)
 	)
-	(property "Footprint" "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "cdd90e06-538b-406c-8502-ba541a9437a9")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -46,6 +34,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -58,6 +47,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -119,9 +109,23 @@
 			(width 0.2)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "Cmts.User")
 		(uuid "8868316e-6855-4832-9253-240a5912c484")
+	)
+	(fp_poly
+		(pts
+			(xy -1.922 -0.484) (xy -1.1 -0.484) (xy -1.092325 -1.806) (xy 1.072 -1.806) (xy 1.071 -1.378) (xy 1.937465 -1.376992)
+			(xy 1.934418 1.386021) (xy 1.075 1.385) (xy 1.071987 1.829916) (xy -1.1 1.827) (xy -1.09186 0.508236)
+			(xy -1.922 0.515237)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "8fda6c63-e179-49dc-9bc0-52b6c081357e")
 	)
 	(fp_circle
 		(center 1.4 1.46)
@@ -130,7 +134,7 @@
 			(width 0.06)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "27e77f44-0d0d-4e44-b8d2-17bbeb52a8c3")
 	)
@@ -148,21 +152,22 @@
 	(pad "1" smd rect
 		(at 1.24 0.95)
 		(size 1.07 0.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "69fb91b0-9d56-4caf-8478-8042fd6ecdc3")
 	)
 	(pad "2" smd rect
 		(at 1.24 -0.95)
 		(size 1.07 0.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "7a4c620c-db55-4538-a876-2d6c2336b1ea")
 	)
 	(pad "3" smd rect
 		(at -1.24 0)
 		(size 1.07 0.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "3ca7aa2f-9b29-4e66-903d-144737c51ec9")
 	)
+	(embedded_fonts no)
 	(model "${KIPRJMOD}/3d/SOT-23-3L_L2.9-W1.6-H1.1-LS2.8-P0.95.wrl"
 		(offset
 			(xyz 0 -0 -0)
