@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "starved_thermal|153540000|62270000|dedaaa3a-f379-4ca8-a30e-f447bfdbba30|d4d1c26e-50a8-4d12-8cb8-f86c9ab005cd|F.Cu",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -103,7 +108,7 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "ignore",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -720,6 +725,24 @@
           "group_by": false,
           "label": "LCSC Part",
           "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field6",
+          "name": "Field6",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser",
+          "name": "Mouser",
           "show": false
         }
       ],

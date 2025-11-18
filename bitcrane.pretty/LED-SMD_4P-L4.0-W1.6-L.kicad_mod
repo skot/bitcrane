@@ -1,0 +1,250 @@
+(footprint "LED-SMD_4P-L4.0-W1.6-L"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "U7"
+		(at -3.68 0.04 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "45ddb313-262c-4b79-8e67-8063b19cdf63")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SK6812"
+		(at 0.33 2.33 0)
+		(layer "F.Fab")
+		(uuid "fb2f45ba-0af9-4b95-b96d-c7a129e43c1d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6812SIDE-A-RVS_C2890037.pdf"
+		(at 0.125 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1969d0c7-fe6e-4bfd-8ce1-34b374c16b12")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0.125 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35875f22-6fdf-45d2-ac95-aa31e8e989d2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C2890037"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a37337d-4cdc-4f6d-a6ab-135a8de80e13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field6" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa1bb08c-5d3f-4ef6-87c3-f0d4d5516825")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK" "1528-4691-ND-$$$$$"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "075cb176-51de-4f06-aa2a-91225b0b69b6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTNO" "SK6812SIDE-A-RVS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae680ccf-c8e3-4ca6-9795-f299a8ca4364")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "16824530-bd5e-4738-8a37-915e9de82138")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -1.814009 -1)
+		(end -1.6 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "177c1644-1d0e-47a5-9380-7cab5ebdaff5")
+	)
+	(fp_rect
+		(start -2.36 -0.67)
+		(end 2.38 1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a66df281-dd02-443b-8316-1afc27d4bd02")
+	)
+	(fp_line
+		(start -2 1.36)
+		(end -2 0.71)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f9575c22-83af-4948-9128-27fddceeb39b")
+	)
+	(fp_line
+		(start -1.12 1.36)
+		(end -0.87 1.11)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8b4db926-3a5c-4001-bd73-a3b4d422ade6")
+	)
+	(fp_line
+		(start -0.87 1.11)
+		(end 0.89 1.11)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4c8b62f1-017f-4d69-b27e-6d17b5651b86")
+	)
+	(fp_line
+		(start 0.89 1.11)
+		(end 1.14 1.36)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "be6f2e0a-289d-4200-9768-f3eacf30fb21")
+	)
+	(fp_line
+		(start 2 0.69)
+		(end 2 1.36)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "66f3ac2f-729b-4f9a-8e50-02ebf27931d6")
+	)
+	(fp_line
+		(start 2 1.36)
+		(end -2 1.36)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3006a9a7-bdbb-42b4-aded-c366e64e9a9d")
+	)
+	(fp_circle
+		(center -2 1.36)
+		(end -1.97 1.36)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "175defc1-6bb6-4f17-8f3d-84cab4299697")
+	)
+	(pad "1" smd rect
+		(at -1.8 0)
+		(size 1 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8631ba2e-0df3-49b6-bda3-feb9b8d55b6d")
+	)
+	(pad "2" smd rect
+		(at -0.45 0)
+		(size 0.7 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "49b9ad4e-f18b-4990-8929-cd65760050c2")
+	)
+	(pad "3" smd rect
+		(at 0.575 0)
+		(size 0.45 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "79f116cb-f28d-41d3-83bd-a918dcbe25e6")
+	)
+	(pad "4" smd rect
+		(at 1.8 0)
+		(size 1 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "63159d4a-364a-4d0c-bd54-5f10b2610c44")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d/LED-SMD_4P-L4.0-W1.6-L.wrl"
+		(offset
+			(xyz -0.05 -0.5 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+)

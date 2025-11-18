@@ -13251,7 +13251,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 479.806 295.656 90)
 			(effects
 				(font
@@ -13296,8 +13296,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60816"
+		(property "LCSC" ""
 			(at 480.06 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 480.06 294.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13357,7 +13366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "emberone:USON-8_UX_2x3x0p6_WIN"
+		(property "Footprint" "bitcrane:USON-8_UX_2x3x0p6_WIN"
 			(at 110.998 348.234 0)
 			(effects
 				(font
@@ -13414,6 +13423,15 @@
 			)
 		)
 		(property "Field6" ""
+			(at 111.76 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 111.76 334.01 0)
 			(effects
 				(font
@@ -13540,6 +13558,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 224.79 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7696e620-3faa-477f-b57a-274171357968")
 		)
@@ -13582,7 +13609,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 112.522 96.52 90)
 			(effects
 				(font
@@ -13627,7 +13654,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17444"
+		(property "LCSC" ""
+			(at 114.3 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 114.3 96.52 0)
 			(effects
 				(font
@@ -13754,6 +13790,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 90.17 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19f4d5bc-1f90-42a8-883f-6f29b525e07c")
 		)
@@ -13843,6 +13888,15 @@
 			)
 		)
 		(property "LCSC" "C2982043"
+			(at 450.85 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 450.85 60.96 0)
 			(effects
 				(font
@@ -13984,6 +14038,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 199.39 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "877cafbf-fd97-4c33-91a6-1e5b5f496e35")
 		)
@@ -14024,7 +14087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 426.974 280.924 90)
 			(effects
 				(font
@@ -14069,8 +14132,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17673"
+		(property "LCSC" ""
 			(at 426.72 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 426.72 281.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14202,6 +14274,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 228.6 255.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c910553-028e-49ca-ab24-a54224556e7a")
 		)
@@ -14242,7 +14323,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 426.974 209.804 90)
 			(effects
 				(font
@@ -14287,8 +14368,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17673"
+		(property "LCSC" ""
 			(at 426.72 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 426.72 210.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14405,6 +14495,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 450.85 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "17d103e0-ee37-43f7-aa4c-5a7e6fa66008")
 		)
@@ -14486,6 +14585,15 @@
 		)
 		(property "Description" ""
 			(at 303.53 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 303.53 288.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14578,6 +14686,15 @@
 			)
 		)
 		(property "DK" ""
+			(at 449.58 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 449.58 208.28 0)
 			(effects
 				(font
@@ -14741,6 +14858,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 450.85 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c37c8080-7344-41c0-ae38-d8c77f175290")
 		)
@@ -14871,6 +14997,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 388.62 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5405064b-02ea-4cce-8f93-8a2a62ce5c00")
 		)
@@ -14881,73 +15016,6 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "R16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 260.35 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "1addbda9-dd1f-49d2-8796-aaf7c8ac230b")
-		(property "Reference" "TP11"
-			(at 307.975 260.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 261.8232 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "89fe756d-f4a8-4cf3-9437-ba7d965affd8")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -15030,6 +15098,15 @@
 			)
 		)
 		(property "Manufacturer" ""
+			(at 346.71 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 346.71 64.77 0)
 			(effects
 				(font
@@ -15147,6 +15224,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 336.55 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "afe62ab3-27d5-4191-b6a7-09ed238cc362")
 		)
@@ -15247,6 +15333,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 346.71 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "6cfd25eb-a79b-4daa-adcf-bd293690b33c")
 		)
@@ -15260,73 +15355,6 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "Q4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 313.69 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "1d164e27-d7ed-4b44-879e-8894d2ae0107")
-		(property "Reference" "TP27"
-			(at 307.975 313.69 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 315.1632 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f39cdab6-893c-4290-9584-6768d4fb89cc")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP27")
 					(unit 1)
 				)
 			)
@@ -15414,6 +15442,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 394.97 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "acd6013f-1990-4f8b-ac19-5482de1928bb")
 		)
@@ -15454,7 +15491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 479.806 219.456 90)
 			(effects
 				(font
@@ -15499,8 +15536,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60816"
+		(property "LCSC" ""
 			(at 480.06 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 480.06 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15530,73 +15576,6 @@
 			(project "bitcart"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b61e4f2d-ce9e-412d-af58-c652a832eb5d"
 					(reference "R28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 252.73 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "2cedc1c8-924f-416c-861b-539437b72fbe")
-		(property "Reference" "TP8"
-			(at 307.975 252.73 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 254.2032 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6ee01426-95b8-4f45-95a5-846e1cb91ad4")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -15657,6 +15636,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 303.53 290.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb83a83c-463f-4168-a0ac-0db60a0043e9")
 		)
@@ -15694,7 +15682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 477.774 209.804 90)
 			(effects
 				(font
@@ -15739,8 +15727,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17673"
+		(property "LCSC" ""
 			(at 477.52 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 477.52 210.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15828,6 +15825,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 453.39 393.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa7ed94f-1a40-445b-ab6d-8c01c7fe0709")
 		)
@@ -15835,73 +15841,6 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 316.23 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "321b9484-980d-4db9-9a80-1518ed417ca8")
-		(property "Reference" "TP28"
-			(at 307.975 316.23 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 317.7032 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b131d0bc-722e-4336-bbdb-f10f3ae31bfc")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP28")
 					(unit 1)
 				)
 			)
@@ -15998,6 +15937,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 388.62 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d8ada45e-5b29-4bde-8ed3-4d786df21509")
 		)
@@ -16059,6 +16007,15 @@
 		)
 		(property "Description" ""
 			(at 453.39 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 453.39 388.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16131,6 +16088,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 453.39 398.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5447f02-4dd4-4416-89ba-f266f7a5760a")
 		)
@@ -16168,7 +16134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 426.974 242.824 90)
 			(effects
 				(font
@@ -16213,8 +16179,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60816"
+		(property "LCSC" ""
 			(at 426.72 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 426.72 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16274,7 +16249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 426.974 284.734 90)
 			(effects
 				(font
@@ -16319,8 +16294,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60816"
+		(property "LCSC" ""
 			(at 426.72 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 426.72 285.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16440,6 +16424,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 346.71 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5ab9b5ee-5511-4a0e-9f12-bb228e3f07bc")
 		)
@@ -16453,73 +16446,6 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "Q5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 255.27 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "3ebd19d0-c1f8-4cc7-8aff-2ce81e055084")
-		(property "Reference" "TP9"
-			(at 307.975 255.27 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 256.7432 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7efb2ff3-f7fc-47a0-b52f-8a4693fd0da9")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -16614,6 +16540,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 110.49 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49e67595-23fc-4e9f-ade4-68ca6819175a")
 		)
@@ -16654,7 +16589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 482.854 212.344 90)
 			(effects
 				(font
@@ -16699,8 +16634,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17673"
+		(property "LCSC" ""
 			(at 482.6 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 482.6 213.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16819,6 +16763,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 80.01 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "74b45cb1-f90b-4ad7-96de-226972433dfb")
 		)
@@ -16906,6 +16859,15 @@
 		)
 		(property "Description" ""
 			(at 303.53 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 303.53 283.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17010,6 +16972,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 346.71 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "0a42a37b-0959-4db6-a05c-3eb3e6b4df9c")
 		)
@@ -17076,6 +17047,15 @@
 		)
 		(property "Description" ""
 			(at 303.53 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 303.53 300.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17195,6 +17175,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 226.06 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8aa85c32-3838-4812-9e00-be3a9b5055e1")
 		)
@@ -17237,7 +17226,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 135.5852 86.36 0)
 			(effects
 				(font
@@ -17282,7 +17271,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C28233"
+		(property "LCSC" ""
+			(at 134.62 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 134.62 82.55 0)
 			(effects
 				(font
@@ -17418,6 +17416,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 237.49 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "767fad4e-d6a8-465d-a72a-e084dd2f78cc")
 		)
@@ -17458,7 +17465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "emberone:LED-SMD_4P-L4.0-W1.6-L"
+		(property "Footprint" "bitcrane:LED-SMD_4P-L4.0-W1.6-L"
 			(at 342.646 318.262 0)
 			(effects
 				(font
@@ -17513,6 +17520,15 @@
 			)
 		)
 		(property "PARTNO" "SK6812SIDE-A-RVS"
+			(at 332.74 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 332.74 307.34 0)
 			(effects
 				(font
@@ -17590,6 +17606,15 @@
 		)
 		(property "Description" ""
 			(at 303.53 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 303.53 293.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17690,6 +17715,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 464.82 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f03562a7-ff8b-4cad-ba64-ece9f27262cd")
 		)
@@ -17736,7 +17770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 477.774 246.634 90)
 			(effects
 				(font
@@ -17781,8 +17815,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60816"
+		(property "LCSC" ""
 			(at 477.52 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 477.52 247.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17872,6 +17915,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 303.53 295.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa896406-c221-4321-a65b-e3898b219a3a")
 		)
@@ -17879,73 +17931,6 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "TP25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 273.05 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "54bafe79-f8f0-4722-9d79-33dd8e7cda96")
-		(property "Reference" "TP16"
-			(at 307.975 273.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 274.5232 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 278.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 278.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dab15aa8-19ca-4f17-9f8b-0a42fa8d3cd8")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP16")
 					(unit 1)
 				)
 			)
@@ -18032,6 +18017,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 124.46 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "04151545-281b-409a-80e8-4e453bd6c742")
 		)
@@ -18078,7 +18072,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 426.974 204.724 90)
 			(effects
 				(font
@@ -18123,8 +18117,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60816"
+		(property "LCSC" ""
 			(at 426.72 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 426.72 205.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18232,6 +18235,15 @@
 			)
 		)
 		(property "DK" ""
+			(at 449.58 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 449.58 245.11 0)
 			(effects
 				(font
@@ -18399,6 +18411,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 132.08 199.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "65ee2cb5-1ea5-4986-97db-c32c52c02e5c")
 		)
@@ -18487,6 +18508,15 @@
 			)
 		)
 		(property "LCSC" "C54909"
+			(at 464.82 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 464.82 107.95 0)
 			(effects
 				(font
@@ -18607,6 +18637,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 336.55 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "29aee8f8-0e73-4e20-bd6d-09eeb849ac8e")
 		)
@@ -18703,6 +18742,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 449.58 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46ca9655-4477-4cba-a68e-c3dc15f5072b")
 		)
@@ -18773,73 +18821,6 @@
 			(project "bitcart"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b61e4f2d-ce9e-412d-af58-c652a832eb5d"
 					(reference "J13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 278.13 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "659e8ee5-5388-4b8a-98e9-2c92c84f68ce")
-		(property "Reference" "TP18"
-			(at 307.975 278.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 279.6032 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 278.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a9565cea-3660-46af-bb26-11c70726fe70")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP18")
 					(unit 1)
 				)
 			)
@@ -18928,6 +18909,15 @@
 			)
 		)
 		(property "Manufacturer" ""
+			(at 388.62 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 388.62 113.03 90)
 			(effects
 				(font
@@ -19051,6 +19041,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 359.41 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d17584b5-2c94-4151-a48f-e3068cc35202")
 		)
@@ -19166,6 +19165,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 302.26 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40d89536-0914-4988-addc-730e91fd8833")
 		)
@@ -19263,6 +19271,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 201.93 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4695d378-9445-4c10-a33b-4dfee2b5bc29")
 		)
@@ -19351,6 +19368,15 @@
 			)
 		)
 		(property "LCSC" "C54909"
+			(at 464.82 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 464.82 58.42 0)
 			(effects
 				(font
@@ -19462,6 +19488,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 394.97 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54f45772-44c0-4c1a-bd9b-bff1c23867f1")
 		)
@@ -19531,6 +19566,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 253.238 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "99ae2ba1-f7d7-4b51-8a3c-57713d47266d")
 		)
@@ -19577,7 +19621,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 481.076 257.556 90)
 			(effects
 				(font
@@ -19622,8 +19666,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60816"
+		(property "LCSC" ""
 			(at 481.33 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 481.33 256.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19684,7 +19737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 477.266 204.724 90)
 			(effects
 				(font
@@ -19729,8 +19782,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60816"
+		(property "LCSC" ""
 			(at 477.52 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 477.52 205.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19790,7 +19852,7 @@
 				)
 			)
 		)
-		(property "Footprint" "emberone:XTAL_ECS-120-20-33-CKM-TR3"
+		(property "Footprint" "bitcrane:XTAL_ECS-120-20-33-CKM-TR3"
 			(at 187.96 292.1 0)
 			(effects
 				(font
@@ -19845,6 +19907,15 @@
 			)
 		)
 		(property "Field6" ""
+			(at 187.96 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 187.96 292.1 0)
 			(effects
 				(font
@@ -19972,6 +20043,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 213.36 262.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6b766c7-e735-4606-9124-ef8ad9124192")
 		)
@@ -20042,6 +20122,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 303.53 285.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2039b46-5e7e-47e8-b748-ffe819d7191e")
 		)
@@ -20080,7 +20169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 477.266 242.824 90)
 			(effects
 				(font
@@ -20125,8 +20214,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17673"
+		(property "LCSC" ""
 			(at 477.52 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 477.52 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20234,6 +20332,15 @@
 			)
 		)
 		(property "LCSC" "C440198"
+			(at 146.05 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 146.05 88.9 0)
 			(effects
 				(font
@@ -20351,6 +20458,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 106.68 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9af750cf-913e-42de-bc3f-bc9b6e2c5c4e")
 		)
@@ -20421,7 +20537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 482.854 249.174 90)
 			(effects
 				(font
@@ -20466,8 +20582,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17673"
+		(property "LCSC" ""
 			(at 482.6 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 482.6 250.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20527,7 +20652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 482.854 287.274 90)
 			(effects
 				(font
@@ -20572,8 +20697,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17673"
+		(property "LCSC" ""
 			(at 482.6 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 482.6 288.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20603,73 +20737,6 @@
 			(project "bitcart"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b61e4f2d-ce9e-412d-af58-c652a832eb5d"
 					(reference "R33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 245.11 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "8e2ec837-d88a-4f05-8ca6-d3de20f26020")
-		(property "Reference" "TP5"
-			(at 307.975 245.11 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 246.5832 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4bab2105-26f6-409b-b814-0be63d8f5973")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -20766,6 +20833,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 336.55 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4ffa0c4c-e3a9-4773-9569-cdb813f57ced")
 		)
@@ -20829,6 +20905,15 @@
 		)
 		(property "Description" ""
 			(at 303.53 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 303.53 280.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20922,6 +21007,15 @@
 			)
 		)
 		(property "Manufacturer" ""
+			(at 394.97 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 394.97 67.31 90)
 			(effects
 				(font
@@ -21045,6 +21139,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 336.55 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "33e72ede-5602-43eb-8b56-f5c00e543daf")
 		)
@@ -21108,6 +21211,15 @@
 		)
 		(property "Description" ""
 			(at 303.53 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 303.53 298.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21227,6 +21339,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 313.69 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "72c585ce-e665-4bdd-b508-a0433b4bccfd")
 		)
@@ -21323,6 +21444,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 114.3 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73ec42d1-ab68-45a5-92ef-0ad2eb4fff92")
 		)
@@ -21408,6 +21538,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 433.07 331.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ceae1e9a-97c4-4017-a36b-d0b8f2b09538")
 		)
@@ -21446,7 +21585,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 477.266 280.924 90)
 			(effects
 				(font
@@ -21491,8 +21630,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C60816"
+		(property "LCSC" ""
 			(at 477.52 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 477.52 281.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21575,6 +21723,15 @@
 		)
 		(property "Description" ""
 			(at 303.53 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 303.53 303.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21667,6 +21824,15 @@
 			)
 		)
 		(property "LCSC" "C54909"
+			(at 464.82 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 464.82 132.08 0)
 			(effects
 				(font
@@ -21778,6 +21944,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 450.85 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "36bb9c6a-9e45-4d39-b996-295838d55283")
 		)
@@ -21859,6 +22034,15 @@
 		)
 		(property "Description" ""
 			(at 467.36 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 467.36 334.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21967,6 +22151,15 @@
 			)
 		)
 		(property "Field6" ""
+			(at 279.4 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 279.4 217.17 0)
 			(effects
 				(font
@@ -22089,6 +22282,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 250.19 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21514bde-a34a-4b34-b324-de381c8b8ad7")
 		)
@@ -22188,6 +22390,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 140.97 191.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "002bbe12-fc7b-4294-b5b7-db1414c23d43")
 		)
@@ -22258,6 +22469,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 104.14 271.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db20fe49-6731-43f1-89a9-5e5720cb6b93")
 		)
@@ -22265,73 +22485,6 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "TP31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 270.51 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "c48bd38f-10d8-4405-96e4-ccb49b8ea0e1")
-		(property "Reference" "TP15"
-			(at 307.975 270.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 271.9832 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "29c8df9a-d033-40cb-b533-5149535e6eda")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP15")
 					(unit 1)
 				)
 			)
@@ -22419,6 +22572,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 130.81 181.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea057476-8a48-4316-b14e-6be03790cdc3")
 		)
@@ -22462,7 +22624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "aditBoard:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+		(property "Footprint" "bitcrane:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 92.71 191.77 0)
 			(effects
 				(font
@@ -22517,6 +22679,15 @@
 			)
 		)
 		(property "Field6" ""
+			(at 88.9 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 88.9 191.77 0)
 			(effects
 				(font
@@ -22655,6 +22826,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 394.97 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fd6f30d-97c7-417c-a6b4-d1ca8c0821b9")
 		)
@@ -22761,6 +22941,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 336.55 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1860acac-d94d-48e6-a366-3c2cf3ad7248")
 		)
@@ -22829,6 +23018,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 453.39 383.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b9c2f47f-32bc-4ccd-b782-ff1dc1dac3aa")
 		)
@@ -22836,73 +23034,6 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "H1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 275.59 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "cfda3a61-ea57-4eca-9eab-1b388fcc1954")
-		(property "Reference" "TP17"
-			(at 307.975 275.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 277.0632 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c8177e87-4c08-4e1a-b012-edb1d2aea080")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP17")
 					(unit 1)
 				)
 			)
@@ -22963,6 +23094,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 156.21 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "44b3adcc-ec45-42dd-85dc-a2124f9a078b")
 		)
@@ -22982,73 +23122,6 @@
 			(project "bitcart"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005d31f999"
 					(reference "TP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 262.89 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "d2450b6c-c373-4fac-b90f-2169f357d2cc")
-		(property "Reference" "TP12"
-			(at 307.975 262.89 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 264.3632 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2373111c-111e-476b-a82f-8b8746c0cbe0")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -23145,6 +23218,15 @@
 			)
 		)
 		(property "Field6" ""
+			(at 290.83 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 290.83 217.17 0)
 			(effects
 				(font
@@ -23268,6 +23350,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 347.98 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f88e7234-5174-4d62-8fdc-b5b2ddc946e5")
 		)
@@ -23310,7 +23401,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 104.14 264.16 0)
 			(effects
 				(font
@@ -23356,7 +23447,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C28323"
+		(property "LCSC" ""
+			(at 104.14 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 104.14 264.16 0)
 			(effects
 				(font
@@ -23447,6 +23547,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 104.14 257.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c59058a5-0764-4f77-9577-b4cfac4963c8")
 		)
@@ -23496,7 +23605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 477.774 284.734 90)
 			(effects
 				(font
@@ -23541,8 +23650,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17673"
+		(property "LCSC" ""
 			(at 477.52 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 477.52 285.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23602,7 +23720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 426.974 246.634 90)
 			(effects
 				(font
@@ -23647,8 +23765,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17673"
+		(property "LCSC" ""
 			(at 426.72 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 426.72 247.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23731,6 +23858,15 @@
 		)
 		(property "Description" ""
 			(at 297.18 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 297.18 308.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23847,6 +23983,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 228.6 252.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "11ae2c31-d59c-4f98-af89-2bd735bcee2d")
 		)
@@ -23857,73 +24002,6 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 265.43 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "e83c9aad-577c-43be-a745-3d10b18c8252")
-		(property "Reference" "TP13"
-			(at 307.975 265.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 266.9032 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d05bd09a-6ecd-4f0b-a42f-86d23c6ae654")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP13")
 					(unit 1)
 				)
 			)
@@ -24021,6 +24099,15 @@
 			)
 		)
 		(property "Field6" ""
+			(at 325.12 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 325.12 217.17 0)
 			(effects
 				(font
@@ -24135,6 +24222,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 388.62 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5d1bb35d-7e7d-4240-8834-b323bf547d41")
 		)
@@ -24145,73 +24241,6 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 257.81 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "ed42b014-946b-4747-a2ba-334164638e7f")
-		(property "Reference" "TP10"
-			(at 307.975 257.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 259.2832 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bc257297-90ad-4a2b-9095-058a3ccfce00")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP10")
 					(unit 1)
 				)
 			)
@@ -24272,6 +24301,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 142.24 257.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6bdbbe7-5f62-4e81-9383-ecdcb3b28ff6")
 		)
@@ -24323,7 +24361,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
+		(property "Footprint" "bitcrane:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
 			(at 265.43 211.836 0)
 			(effects
 				(font
@@ -24378,6 +24416,15 @@
 			)
 		)
 		(property "Field6" ""
+			(at 261.62 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 261.62 283.21 0)
 			(effects
 				(font
@@ -24567,73 +24614,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 250.19 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "f0a4a4e7-ef1a-44df-9013-76f090656fbe")
-		(property "Reference" "TP7"
-			(at 307.975 250.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 251.6632 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cebbde23-67a6-47be-9bf8-525f6a934335")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 116.84 181.61 270)
 		(mirror x)
@@ -24722,6 +24702,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 116.84 181.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc9fb9a0-137e-45f1-8e5b-ada88c29fa57")
 		)
@@ -24732,140 +24721,6 @@
 			(project "bitcrane"
 				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 247.65 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "f6bade7f-e772-4983-b45f-0c2a5ebdde0d")
-		(property "Reference" "TP6"
-			(at 307.975 247.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 249.1232 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c9cfd022-487c-4ff8-93e9-c7b53f114a5e")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 303.53 267.97 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "f6ecb848-b9c6-4302-abca-0d198f50a3b2")
-		(property "Reference" "TP14"
-			(at 307.975 267.97 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 304.2158 269.4432 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 303.53 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 303.53 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 303.53 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab3ba63e-32be-4057-a262-7981c695f3b8")
-		)
-		(instances
-			(project "bitcrane"
-				(path "/dad32d3d-71e4-4236-b088-31b84f800e98"
-					(reference "TP14")
 					(unit 1)
 				)
 			)
@@ -24963,6 +24818,15 @@
 			)
 		)
 		(property "Field6" ""
+			(at 151.13 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 151.13 341.63 0)
 			(effects
 				(font
@@ -25087,6 +24951,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 176.53 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f60e511-2661-4bda-81b8-1dad7e860f2f")
 		)
@@ -25129,7 +25002,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 142.24 264.16 0)
 			(effects
 				(font
@@ -25175,7 +25048,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C28323"
+		(property "LCSC" ""
+			(at 142.24 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 142.24 264.16 0)
 			(effects
 				(font
@@ -25293,6 +25175,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" ""
+			(at 450.85 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0713fc7d-d715-4304-9819-71604f242567")
 		)
@@ -25353,7 +25244,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 93.6752 87.63 0)
 			(effects
 				(font
@@ -25398,7 +25289,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C28233"
+		(property "LCSC" ""
+			(at 92.71 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 92.71 83.82 0)
 			(effects
 				(font
@@ -25508,6 +25408,15 @@
 			)
 		)
 		(property "Field6" ""
+			(at 201.93 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
 			(at 201.93 262.89 0)
 			(effects
 				(font
