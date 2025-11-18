@@ -1520,251 +1520,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:Crystal_GND24_common"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Y"
-				(at 3.175 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "Crystal_GND24_common"
-				(at 3.175 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Four pin crystal, GND on pins 2 and 4"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "quartz ceramic resonator oscillator"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Crystal*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Crystal_GND24_common_0_1"
-				(polyline
-					(pts
-						(xy -2.54 2.286) (xy -2.54 3.556) (xy 2.54 3.556) (xy 2.54 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -2.032 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.286) (xy -2.54 -3.556) (xy 2.54 -3.556) (xy 2.54 -2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.032 -1.27) (xy -2.032 1.27)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.143 2.54)
-					(end 1.143 -2.54)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.81) (xy 0 -3.556)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.032 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.032 -1.27) (xy 2.032 1.27)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Crystal_GND24_common_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 1.27)
-					(hide yes)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 1.27)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 1.27)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:D_Zener_Small_Filled"
 			(pin_numbers
 				(hide yes)
@@ -2053,174 +1808,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Diode:BZX84Cxx"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "BZX84Cxx"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "300mW Zener Diode, SOT-23"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "zener diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOT?23*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "BZX84Cxx_0_1"
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "BZX84Cxx_1_1"
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at 1.27 0 180)
-					(length 2.54)
-					(hide yes)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Diode:SMAJ6.0A"
 			(pin_numbers
 				(hide yes)
@@ -2359,6 +1946,160 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "GT-TC029B-H025-L1N_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW2"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GT-TC029B-H025-L1N"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "bitaxe:SW_CS1213AGF260_CRS"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.citrelay.com/Catalog%20Pages/SwitchCatalog/CS1213.pdf"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DK" "2449-CS1213AGF260CT-ND"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTNO" "CS1213AGF260"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GT-TC029B-H025-L1N_1_0_1"
+				(polyline
+					(pts
+						(xy -3.05 1.52) (xy 3.05 1.52)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 0)
+					(radius 0.76)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.52) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 0)
+					(radius 0.76)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GT-TC029B-H025-L1N_1_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Mechanical:MountingHole_Pad"
 			(pin_numbers
 				(hide yes)
@@ -2456,382 +2197,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Power_Protection:TPD1E05U06DYA"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -2.54 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TPD1E05U06DYA"
-				(at 1.27 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Diode_SMD:D_SOD-523"
-				(at 2.54 -4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e05u06.pdf"
-				(at 2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "1-Channel ESD Protection for Super-Speed USB 3.0 Interface, SOD-523"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "ESD protection USB 3.0"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*SOD*523*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TPD1E05U06DYA_0_1"
-				(rectangle
-					(start -3.048 1.905)
-					(end 3.048 -3.048)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.032) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 -2.032) (xy -0.635 -1.397) (xy -0.635 -2.667) (xy -1.905 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 -2.667) (xy -1.905 -1.397)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.762 0.762) (xy -0.762 0.762)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.762 0) (xy 0.508 0.635) (xy 0.508 -0.635) (xy -0.762 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.762 -0.762) (xy -0.762 0.762)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.635 -2.032) (xy -2.54 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.635 -2.032) (xy 0.635 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.381 0.762) (xy -0.762 0.762)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 -2.032)
-					(radius 0.2032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -2.032) (xy 2.032 -1.397) (xy 2.032 -2.667) (xy 0.762 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -2.667) (xy 0.762 -1.397)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.889 0) (xy -1.016 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.889 0) (xy -1.016 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.889 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 0)
-					(radius 0.2032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.032) (xy 0.635 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.032) (xy 0.635 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.032) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "TPD1E05U06DYA_1_1"
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "I/O"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3141,801 +2506,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "aditBoard:USB_C_Receptacle_USB2.0"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J1"
-				(at -10.16 19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "USB_C_Receptacle_USB2.0"
-				(at 11.43 21.59 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "athvfd:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
-				(at 3.81 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-				(at 3.81 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "DK" "2073-USB4105-GF-ACT-ND"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "PARTNO" "USB4105-GF-A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "usb universal serial bus type-C USB2.0"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "USB*C*Receptacle*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "USB_C_Receptacle_USB2.0_0_0"
-				(rectangle
-					(start -0.254 -17.78)
-					(end 0.254 -16.764)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 9.144 15.494)
-					(end 10.16 14.986)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 9.1694 12.9286)
-					(end 10.1854 12.4206)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 10.414)
-					(end 9.144 9.906)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 7.874)
-					(end 9.144 7.366)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 2.794)
-					(end 9.144 2.286)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 0.254)
-					(end 9.144 -0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -2.286)
-					(end 9.144 -2.794)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -4.826)
-					(end 9.144 -5.334)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -12.446)
-					(end 9.144 -12.954)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -14.986)
-					(end 9.144 -15.494)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "USB_C_Receptacle_USB2.0_0_1"
-				(rectangle
-					(start -10.16 17.78)
-					(end 10.16 -17.78)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -8.89 -3.81) (xy -8.89 3.81)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -7.62 -3.81)
-					(end -6.35 3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start -7.62 3.81)
-					(mid -6.985 4.4423)
-					(end -6.35 3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -7.62 3.81)
-					(mid -6.985 4.4423)
-					(end -6.35 3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start -8.89 3.81)
-					(mid -6.985 5.7067)
-					(end -5.08 3.81)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -5.08 -3.81)
-					(mid -6.985 -5.7067)
-					(end -8.89 -3.81)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -6.35 -3.81)
-					(mid -6.985 -4.4423)
-					(end -7.62 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -6.35 -3.81)
-					(mid -6.985 -4.4423)
-					(end -7.62 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 3.81) (xy -5.08 -3.81)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -2.54 1.143)
-					(radius 0.635)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 4.318) (xy 0 6.858) (xy 1.27 4.318) (xy -1.27 4.318)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.032) (xy 2.54 0.508) (xy 2.54 1.778)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.302) (xy -2.54 -0.762) (xy -2.54 0.508)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -5.842) (xy 0 4.318)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 -5.842)
-					(radius 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 1.905 1.778)
-					(end 3.175 3.048)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "USB_C_Receptacle_USB2.0_1_1"
-				(pin passive line
-					(at -7.62 -22.86 90)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "S1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -22.86 90)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A1B12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -22.86 90)
-					(length 5.08)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B1A12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 15.24 180)
-					(length 5.08)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A4B9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 12.7 180)
-					(length 5.08)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B4A9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 10.16 180)
-					(length 5.08)
-					(name "CC1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 7.62 180)
-					(length 5.08)
-					(name "CC2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 2.54 180)
-					(length 5.08)
-					(name "D-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 0 180)
-					(length 5.08)
-					(name "D-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -2.54 180)
-					(length 5.08)
-					(name "D+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -5.08 180)
-					(length 5.08)
-					(name "D+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -12.7 180)
-					(length 5.08)
-					(name "SBU1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -15.24 180)
-					(length 5.08)
-					(name "SBU2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "athvfd:SK6812SIDE-A-RVS"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -4.572 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SK6812"
-				(at 1.778 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "athvfd:LED-SMD_4P-L4.0-W1.6-L"
-				(at 9.906 -10.922 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6812SIDE-A-RVS_C2890037.pdf"
-				(at -1.778 -8.636 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at -7.62 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C2890037"
-				(at 8.128 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SK6812SIDE-A-RVS_1_1"
-				(rectangle
-					(start -5.08 2.54)
-					(end 5.08 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -7.62 1.27 0)
-					(length 2.54)
-					(name "DIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 -1.27 0)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 7.62 1.27 180)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 -1.27 180)
-					(length 2.54)
-					(name "DOUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "bitaxe:GT-TC029B-H025-L1N"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4049,7 +2619,9 @@
 						(type none)
 					)
 				)
-				(pin unspecified line
+			)
+			(symbol "GT-TC029B-H025-L1N_1_1"
+				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
 					(name "~"
@@ -4067,7 +2639,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 5.08 0 180)
 					(length 2.54)
 					(name "~"
@@ -4088,29 +2660,30 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "bitcart:0455580003"
+		(symbol "bitcrane:0455580003"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at -5.08 7.62 0)
+			(property "Reference" "J1"
+				(at 0 8.255 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify right)
 				)
 			)
 			(property "Value" "0455580003"
-				(at 0 -6.35 0)
+				(at -1.27 -6.985 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify right)
+					(hide yes)
 				)
 			)
-			(property "Footprint" "bitcart:0455580003"
+			(property "Footprint" "bitcrane:CONN-TH_50362462"
 				(at 16.51 -94.92 0)
 				(effects
 					(font
@@ -4130,7 +2703,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Mini-Fit Jr. Header, Dual Row, Right Angle, 6 Circuits, PA Polyamide Nylon 6/6 94V-0, Tin (Sn) Plating"
+			(property "Description" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -4139,7 +2712,7 @@
 					(hide yes)
 				)
 			)
-			(property "DK" "WM10869-ND"
+			(property "DK" ""
 				(at 10.16 7.62 0)
 				(effects
 					(font
@@ -4148,8 +2721,17 @@
 					(hide yes)
 				)
 			)
-			(property "PARTNO" "0455580003"
+			(property "PARTNO" ""
 				(at 8.89 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C492365"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4262,6 +2844,473 @@
 				(pin passive line
 					(at 7.62 -2.54 180)
 					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "bitcrane:BZX84Cxx"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D2"
+				(at -1.143 2.032 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "LBZX84C12LT1G"
+				(at 1.143 2.032 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "bitcrane:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+				(at 0 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf"
+				(at -0.508 -6.604 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DK" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTNO" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C12773"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "zener diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BZX84Cxx_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BZX84Cxx_1_1"
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 1.27 0 180)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "bitcrane:Crystal_GND24_common"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Y1"
+				(at 0 7.112 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "12MHz"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "bitcrane:XTAL_ECS-120-20-33-CKM-TR3"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTNO" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DK" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C9002"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "quartz ceramic resonator oscillator"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Crystal*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Crystal_GND24_common_0_1"
+				(polyline
+					(pts
+						(xy -2.54 2.286) (xy -2.54 3.556) (xy 2.54 3.556) (xy 2.54 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -2.032 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -2.286) (xy -2.54 -3.556) (xy 2.54 -3.556) (xy 2.54 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -1.27) (xy -2.032 1.27)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.143 2.54)
+					(end 1.143 -2.54)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -3.81) (xy 0 -3.556)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 -1.27) (xy 2.032 1.27)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Crystal_GND24_common_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 1.27)
+					(hide yes)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 1.27)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 1.27)
 					(name "3"
 						(effects
 							(font
@@ -4781,7 +3830,7 @@
 			(symbol "RP2040_0_1"
 				(rectangle
 					(start -21.59 53.34)
-					(end 21.59 -42.164)
+					(end 21.59 -41.91)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -5099,7 +4148,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at 0 -45.72 90)
 					(length 3.81)
 					(name "GND"
@@ -5827,6 +4876,167 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "bitcrane:SK6812SIDE-A-RVS"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U7"
+				(at -3.81 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SK6812"
+				(at 1.778 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "bitcrane:LED-SMD_4P-L4.0-W1.6-L"
+				(at 9.906 -10.922 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2108251530_OPSCO-Optoelectronics-SK6812SIDE-A-RVS_C2890037.pdf"
+				(at -1.778 -8.636 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at -7.62 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C2890037"
+				(at 8.128 -12.954 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DK" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTNO" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SK6812SIDE-A-RVS_1_1"
+				(rectangle
+					(start -5.08 2.54)
+					(end 5.08 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 1.27 0)
+					(length 2.54)
+					(name "DIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -1.27 0)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 1.27 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 7.62 -1.27 180)
+					(length 2.54)
+					(name "DOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "bitcrane:TLV1117LV33DCYR"
 			(pin_names
 				(offset 1.016)
@@ -5917,7 +5127,7 @@
 						(type background)
 					)
 				)
-				(pin input line
+				(pin power_in line
 					(at -8.89 5.08 0)
 					(length 2.54)
 					(name "VIN"
@@ -5935,7 +5145,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin power_out line
 					(at 8.89 5.08 180)
 					(length 2.54)
 					(name "VOUT"
@@ -5953,7 +5163,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin power_out line
 					(at 8.89 5.08 180)
 					(length 2.54)
 					(hide yes)
@@ -5972,7 +5182,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at 8.89 2.54 180)
 					(length 2.54)
 					(name "GND"
@@ -5993,30 +5203,1095 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "emberone:W25Q16JVUXIQ_TR"
+		(symbol "bitcrane:TPD1E05U06DYA"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U1"
+				(at -4.572 -2.54 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "TPD1E05U06DYA"
+				(at 1.778 -19.304 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Diode_SMD:D_SOD-523"
+				(at 2.54 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e05u06.pdf"
+				(at 2.54 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "1-Channel ESD Protection for Super-Speed USB 3.0 Interface, SOD-523"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTNO" ""
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DK" ""
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C3702980"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "ESD protection USB 3.0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*SOD*523*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TPD1E05U06DYA_0_1"
+				(rectangle
+					(start -3.048 1.905)
+					(end 3.048 -3.048)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -2.032) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -2.032) (xy -0.635 -1.397) (xy -0.635 -2.667) (xy -1.905 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -2.667) (xy -1.905 -1.397)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0.762) (xy -0.762 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0) (xy 0.508 0.635) (xy 0.508 -0.635) (xy -0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 -0.762) (xy -0.762 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 -2.032) (xy -2.54 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 -2.032) (xy 0.635 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.381 0.762) (xy -0.762 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -2.032)
+					(radius 0.2032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -2.032) (xy 2.032 -1.397) (xy 2.032 -2.667) (xy 0.762 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -2.667) (xy 0.762 -1.397)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.889 0) (xy -1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.889 0) (xy -1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.889 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 0)
+					(radius 0.2032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.032) (xy 0.635 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.032) (xy 0.635 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.032) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TPD1E05U06DYA_1_1"
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "I/O"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "bitcrane:USB_C_Receptacle_USB2.0"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J2"
+				(at -10.16 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "USB_C_Receptacle_USB2.0"
+				(at 11.43 21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "bitcrane:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+				(at 2.032 24.892 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+				(at 2.032 24.892 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DK" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTNO" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C2988369"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "usb universal serial bus type-C USB2.0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "USB*C*Receptacle*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "USB_C_Receptacle_USB2.0_0_0"
+				(rectangle
+					(start -0.254 -17.78)
+					(end 0.254 -16.764)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 9.144 15.494)
+					(end 10.16 14.986)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 9.1694 12.9286)
+					(end 10.1854 12.4206)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 10.414)
+					(end 9.144 9.906)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 7.874)
+					(end 9.144 7.366)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 2.794)
+					(end 9.144 2.286)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 0.254)
+					(end 9.144 -0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -2.286)
+					(end 9.144 -2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -4.826)
+					(end 9.144 -5.334)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -12.446)
+					(end 9.144 -12.954)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -14.986)
+					(end 9.144 -15.494)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "USB_C_Receptacle_USB2.0_0_1"
+				(rectangle
+					(start -10.16 17.78)
+					(end 10.16 -17.78)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -8.89 -3.81) (xy -8.89 3.81)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -7.62 -3.81)
+					(end -6.35 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start -7.62 3.81)
+					(mid -6.985 4.4423)
+					(end -6.35 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -7.62 3.81)
+					(mid -6.985 4.4423)
+					(end -6.35 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start -8.89 3.81)
+					(mid -6.985 5.7067)
+					(end -5.08 3.81)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -5.08 -3.81)
+					(mid -6.985 -5.7067)
+					(end -8.89 -3.81)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -6.35 -3.81)
+					(mid -6.985 -4.4423)
+					(end -7.62 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -6.35 -3.81)
+					(mid -6.985 -4.4423)
+					(end -7.62 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 3.81) (xy -5.08 -3.81)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 1.143)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 4.318) (xy 0 6.858) (xy 1.27 4.318) (xy -1.27 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.032) (xy 2.54 0.508) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -3.302) (xy -2.54 -0.762) (xy -2.54 0.508)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -5.842) (xy 0 4.318)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -5.842)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 1.905 1.778)
+					(end 3.175 3.048)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "USB_C_Receptacle_USB2.0_1_1"
+				(pin passive line
+					(at -7.62 -22.86 90)
+					(length 5.08)
+					(name "SHIELD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -22.86 90)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A1B12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -22.86 90)
+					(length 5.08)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B1A12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 15.24 15.24 180)
+					(length 5.08)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A4B9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 15.24 12.7 180)
+					(length 5.08)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B4A9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 10.16 180)
+					(length 5.08)
+					(name "CC1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 7.62 180)
+					(length 5.08)
+					(name "CC2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 2.54 180)
+					(length 5.08)
+					(name "D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 0 180)
+					(length 5.08)
+					(name "D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -2.54 180)
+					(length 5.08)
+					(name "D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -5.08 180)
+					(length 5.08)
+					(name "D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -12.7 180)
+					(length 5.08)
+					(name "SBU1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -15.24 180)
+					(length 5.08)
+					(name "SBU2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "bitcrane:W25Q16JVUXIQ_TR"
 			(pin_names
 				(offset 0.254)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -16.002 7.874 0)
+			(property "Reference" "U3"
+				(at -14.732 7.874 0)
 				(effects
 					(font
-						(size 1.524 1.524)
+						(size 1.27 1.27)
 					)
 				)
 			)
 			(property "Value" "W25Q16JVUXIQ TR"
-				(at 9.398 -10.668 0)
+				(at 11.938 -10.668 0)
 				(effects
 					(font
-						(size 1.524 1.524)
+						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" "emberone:USON-8_UX_2x3x0p6_WIN"
+			(property "Footprint" "bitcrane:USON-8_UX_2x3x0p6_WIN"
 				(at -0.762 -14.224 0)
 				(effects
 					(font
@@ -6045,7 +6320,7 @@
 					(hide yes)
 				)
 			)
-			(property "DK" "256-W25Q16JVUXIQTRCT-ND"
+			(property "DK" ""
 				(at 0.762 -19.812 0)
 				(effects
 					(font
@@ -6054,7 +6329,7 @@
 					(hide yes)
 				)
 			)
-			(property "PARTNO" "W25Q16JVUXIQ TR"
+			(property "PARTNO" ""
 				(at 1.27 -22.098 0)
 				(effects
 					(font
@@ -6091,7 +6366,7 @@
 				)
 			)
 			(symbol "W25Q16JVUXIQ_TR_0_1"
-				(pin unspecified line
+				(pin passive line
 					(at -19.05 3.81 0)
 					(length 2.56)
 					(name "/CS"
@@ -6109,7 +6384,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at -19.05 1.27 0)
 					(length 2.56)
 					(name "DO(IO1)"
@@ -6127,7 +6402,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at -19.05 -1.27 0)
 					(length 2.56)
 					(name "/WP(IO2)"
@@ -6145,25 +6420,7 @@
 						)
 					)
 				)
-				(pin unspecified line
-					(at -19.05 -3.81 0)
-					(length 2.56)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
+				(pin passive line
 					(at 19.05 3.81 180)
 					(length 2.56)
 					(name "EPAD"
@@ -6181,25 +6438,7 @@
 						)
 					)
 				)
-				(pin unspecified line
-					(at 19.05 1.27 180)
-					(length 2.56)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
+				(pin passive line
 					(at 19.05 -1.27 180)
 					(length 2.56)
 					(name "/HOLDOR/RESET(IO3)"
@@ -6217,7 +6456,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 19.05 -3.81 180)
 					(length 2.56)
 					(name "CLK"
@@ -6235,7 +6474,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 19.05 -6.35 180)
 					(length 2.56)
 					(name "DI(IO0)"
@@ -6264,6 +6503,42 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(pin passive line
+					(at -19.05 -3.81 0)
+					(length 2.56)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 19.05 1.27 180)
+					(length 2.56)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 			)
@@ -6499,7 +6774,7 @@
 	)
 	(text "RPi RP2040 Flash"
 		(exclude_from_sim no)
-		(at 90.932 312.42 0)
+		(at 92.71 315.976 0)
 		(effects
 			(font
 				(size 3 3)
@@ -7316,7 +7591,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 278.13) (xy 303.53 278.13)
+			(xy 287.02 278.13) (xy 300.99 278.13)
 		)
 		(stroke
 			(width 0)
@@ -7436,7 +7711,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 262.89) (xy 303.53 262.89)
+			(xy 287.02 262.89) (xy 300.99 262.89)
 		)
 		(stroke
 			(width 0)
@@ -7596,7 +7871,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 250.19) (xy 303.53 250.19)
+			(xy 287.02 250.19) (xy 300.99 250.19)
 		)
 		(stroke
 			(width 0)
@@ -7646,7 +7921,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 260.35) (xy 303.53 260.35)
+			(xy 287.02 260.35) (xy 300.99 260.35)
 		)
 		(stroke
 			(width 0)
@@ -7686,7 +7961,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 313.69) (xy 303.53 313.69)
+			(xy 287.02 313.69) (xy 300.99 313.69)
 		)
 		(stroke
 			(width 0)
@@ -7996,7 +8271,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 153.67) (xy 248.158 153.67)
+			(xy 233.68 153.67) (xy 247.65 153.67)
 		)
 		(stroke
 			(width 0)
@@ -8436,7 +8711,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 252.73) (xy 303.53 252.73)
+			(xy 287.02 252.73) (xy 300.99 252.73)
 		)
 		(stroke
 			(width 0)
@@ -8706,7 +8981,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 308.61) (xy 297.18 308.61)
+			(xy 287.02 308.61) (xy 303.53 308.61)
 		)
 		(stroke
 			(width 0)
@@ -8716,7 +8991,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 156.21) (xy 248.158 156.21)
+			(xy 233.68 156.21) (xy 247.65 156.21)
 		)
 		(stroke
 			(width 0)
@@ -8726,7 +9001,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 316.23) (xy 303.53 316.23)
+			(xy 287.02 316.23) (xy 300.99 316.23)
 		)
 		(stroke
 			(width 0)
@@ -9396,7 +9671,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 265.43) (xy 303.53 265.43)
+			(xy 287.02 265.43) (xy 300.99 265.43)
 		)
 		(stroke
 			(width 0)
@@ -9466,7 +9741,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 267.97) (xy 303.53 267.97)
+			(xy 287.02 267.97) (xy 300.99 267.97)
 		)
 		(stroke
 			(width 0)
@@ -9736,7 +10011,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 257.81) (xy 303.53 257.81)
+			(xy 287.02 257.81) (xy 300.99 257.81)
 		)
 		(stroke
 			(width 0)
@@ -9776,7 +10051,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 255.27) (xy 303.53 255.27)
+			(xy 287.02 255.27) (xy 300.99 255.27)
 		)
 		(stroke
 			(width 0)
@@ -9976,7 +10251,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 270.51) (xy 303.53 270.51)
+			(xy 287.02 270.51) (xy 300.99 270.51)
 		)
 		(stroke
 			(width 0)
@@ -10286,7 +10561,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 151.13) (xy 248.158 151.13)
+			(xy 233.68 151.13) (xy 247.65 151.13)
 		)
 		(stroke
 			(width 0)
@@ -10416,7 +10691,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 273.05) (xy 303.53 273.05)
+			(xy 287.02 273.05) (xy 300.99 273.05)
 		)
 		(stroke
 			(width 0)
@@ -10476,7 +10751,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 247.65) (xy 303.53 247.65)
+			(xy 287.02 247.65) (xy 300.99 247.65)
 		)
 		(stroke
 			(width 0)
@@ -10596,7 +10871,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 275.59) (xy 303.53 275.59)
+			(xy 287.02 275.59) (xy 300.99 275.59)
 		)
 		(stroke
 			(width 0)
@@ -10636,7 +10911,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 245.11) (xy 303.53 245.11)
+			(xy 287.02 245.11) (xy 300.99 245.11)
 		)
 		(stroke
 			(width 0)
@@ -10846,7 +11121,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 148.59) (xy 248.158 148.59)
+			(xy 233.68 148.59) (xy 247.65 148.59)
 		)
 		(stroke
 			(width 0)
@@ -11395,12 +11670,12 @@
 		(uuid "01d0138e-5095-479e-899e-f45088b0a806")
 	)
 	(label "FAN1_TACH"
-		(at 288.29 288.29 0)
+		(at 300.99 288.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "07e9edac-20e1-47a3-83ab-008354bc637f")
 	)
@@ -11415,12 +11690,12 @@
 		(uuid "088d780d-0239-4b54-93f9-df9a7267dec8")
 	)
 	(label "TXD1"
-		(at 288.29 255.27 0)
+		(at 300.99 255.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "092f8933-fed0-427f-96d3-aff9a44ffc9b")
 	)
@@ -11495,12 +11770,12 @@
 		(uuid "110b40c8-331c-4782-bf30-7bb03879b9d1")
 	)
 	(label "SCL"
-		(at 288.29 252.73 0)
+		(at 300.99 252.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "112c15c1-319f-4e8e-be05-7b3194a3ab26")
 	)
@@ -11515,12 +11790,12 @@
 		(uuid "126154c2-8c5a-485d-913b-a646499e2775")
 	)
 	(label "FAN2_PWM"
-		(at 288.29 290.83 0)
+		(at 300.99 290.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "1371d11e-b58a-402c-8a9c-d53b7a1c9726")
 	)
@@ -11665,12 +11940,12 @@
 		(uuid "27623f66-c945-47a1-913a-5d1b147107d0")
 	)
 	(label "PLUG0"
-		(at 288.29 273.05 0)
+		(at 300.99 273.05 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "2a599d0f-7f94-4d3a-9da2-65bdcdaf463a")
 	)
@@ -11695,12 +11970,12 @@
 		(uuid "2c73200b-80ac-49cd-87da-7ea845fb36e0")
 	)
 	(label "FAN4_TACH"
-		(at 288.29 303.53 0)
+		(at 300.99 303.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "2f2ca3af-de82-419d-94f3-f1bf90784c53")
 	)
@@ -11765,12 +12040,12 @@
 		(uuid "37243fb2-75fc-4e32-a864-16323de2f038")
 	)
 	(label "RST2"
-		(at 288.29 313.69 0)
+		(at 300.99 313.69 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "37d3457b-5f50-47c0-aee9-1832049b84ce")
 	)
@@ -11785,22 +12060,22 @@
 		(uuid "39e8ecb7-df5d-49b3-9ffa-b2d3b3610324")
 	)
 	(label "FAN3_TACH"
-		(at 288.29 298.45 0)
+		(at 300.99 298.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "3ad5964d-c239-4f40-a57d-f311e23fc96a")
 	)
 	(label "PSU_SDA"
-		(at 288.29 280.67 0)
+		(at 300.99 280.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "3b5d1062-fc83-4a3b-8c0f-1b8aae9d03b0")
 	)
@@ -11845,12 +12120,12 @@
 		(uuid "3f4a8435-6113-4b2b-924f-d113e76e3099")
 	)
 	(label "RXD0"
-		(at 288.29 247.65 0)
+		(at 300.99 247.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "42ef3068-5bb8-433b-9717-ed3d20733565")
 	)
@@ -11905,22 +12180,22 @@
 		(uuid "46a94654-ca90-4dfc-86f3-78a55d495230")
 	)
 	(label "SDA"
-		(at 288.29 250.19 0)
+		(at 300.99 250.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "46be937f-69d1-4bcd-8801-deaf5833689b")
 	)
 	(label "PLUG1"
-		(at 288.29 278.13 0)
+		(at 300.99 278.13 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "46c9f74b-3aa6-49f7-9058-63418a64a29a")
 	)
@@ -11975,12 +12250,12 @@
 		(uuid "4feda50d-e368-468f-bc12-a4350e2917f8")
 	)
 	(label "FAN2_TACH"
-		(at 288.29 293.37 0)
+		(at 300.99 293.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "50250403-559e-491c-b479-95956b8e51fb")
 	)
@@ -12015,12 +12290,12 @@
 		(uuid "528d166b-9c40-4bcc-904c-10fea10faba0")
 	)
 	(label "FAN1_PWM"
-		(at 288.29 285.75 0)
+		(at 300.99 285.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "53165a22-2a23-46d7-b718-00a8c53678aa")
 	)
@@ -12125,12 +12400,12 @@
 		(uuid "678879d1-2ab1-4bef-bf99-5bb484df6c4e")
 	)
 	(label "PSU_EN"
-		(at 288.29 308.61 0)
+		(at 300.99 308.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "6b7c23ef-9d83-42d3-854d-da4f077ec034")
 	)
@@ -12155,32 +12430,32 @@
 		(uuid "72de6c62-56e7-4ad0-b454-736b0628444e")
 	)
 	(label "RST0"
-		(at 288.29 270.51 0)
+		(at 300.99 270.51 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "7341c975-641d-4c6d-8a67-618e40746bb9")
 	)
 	(label "PSU_SCL"
-		(at 288.29 283.21 0)
+		(at 300.99 283.21 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "7475b158-0912-4b7a-86c3-863e507f203a")
 	)
 	(label "GND"
-		(at 461.01 331.47 0)
+		(at 464.82 331.47 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "7572c11d-9fd4-4af2-88d1-2ce2ad83d334")
 	)
@@ -12385,12 +12660,12 @@
 		(uuid "8a0919ba-72b7-4c73-bc3c-48d5c872a231")
 	)
 	(label "DISPLAY_SCL"
-		(at 288.29 267.97 0)
+		(at 300.99 267.97 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "8bf96ce6-8d23-4716-8220-fefac83bf491")
 	)
@@ -12435,22 +12710,22 @@
 		(uuid "926f6a2e-b274-4057-9a89-bcc049eadb4b")
 	)
 	(label "RXD2"
-		(at 288.29 262.89 0)
+		(at 300.99 262.89 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "950da79c-1989-47bc-8404-db02f4c7bb91")
 	)
 	(label "FAN4_PWM"
-		(at 288.29 300.99 0)
+		(at 300.99 300.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "95931aff-397b-4434-9362-3702318ae6b2")
 	)
@@ -12475,12 +12750,12 @@
 		(uuid "969a6de0-c422-4e11-8860-4e20921dbeab")
 	)
 	(label "RST1"
-		(at 288.29 275.59 0)
+		(at 300.99 275.59 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "98ef4fcf-a282-4d5b-8b86-89a3101b3a6b")
 	)
@@ -12515,12 +12790,12 @@
 		(uuid "9b7462b8-7bf2-4b97-a253-f02509ece697")
 	)
 	(label "PLUG2"
-		(at 288.29 316.23 0)
+		(at 300.99 316.23 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "9c8b9aa8-fff0-40c3-8dd7-d716433a7001")
 	)
@@ -12625,12 +12900,12 @@
 		(uuid "af31239b-4194-49dc-8402-12f9a3db4b1b")
 	)
 	(label "GND"
-		(at 487.68 285.75 0)
+		(at 491.49 285.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "b2079872-ef36-466d-abf6-d1af759eccb6")
 	)
@@ -12655,12 +12930,12 @@
 		(uuid "b29a008b-c464-4aa0-99ef-927bf3c9e0cf")
 	)
 	(label "TXD0"
-		(at 288.29 245.11 0)
+		(at 300.99 245.11 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "b3a00e6e-b18f-4319-8ac9-075368a19604")
 	)
@@ -12775,12 +13050,12 @@
 		(uuid "c8491b4d-a4ce-4742-b224-fdb7ea7a2424")
 	)
 	(label "LED"
-		(at 288.29 306.07 0)
+		(at 300.99 306.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "cb26dd3f-6927-4ba5-9280-1f4b77e5c853")
 	)
@@ -12825,12 +13100,12 @@
 		(uuid "cf6247b3-75d2-4b0d-b9cb-a8f39336fe4e")
 	)
 	(label "RXD1"
-		(at 288.29 257.81 0)
+		(at 300.99 257.81 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "cf7eca87-bcaa-477e-af6c-5b8db81a6ce2")
 	)
@@ -12905,22 +13180,22 @@
 		(uuid "d6fcedbf-9894-440d-bd5c-5b0097439833")
 	)
 	(label "DISPLAY_SDA"
-		(at 288.29 265.43 0)
+		(at 300.99 265.43 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "d8c9590e-86f5-48dc-9e22-374cb65b86a0")
 	)
 	(label "FAN3_PWM"
-		(at 288.29 295.91 0)
+		(at 300.99 295.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "d927dfa5-e96b-416c-bb12-472b93120d40")
 	)
@@ -13035,12 +13310,12 @@
 		(uuid "e817db45-feb0-410a-9716-9bca89b27994")
 	)
 	(label "TXD2"
-		(at 288.29 260.35 0)
+		(at 300.99 260.35 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "e9302c6b-26cf-4ba5-b581-7fa14a86408d")
 	)
@@ -13278,7 +13553,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 480.06 294.64 0)
 			(effects
 				(font
@@ -13298,15 +13573,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 480.06 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 480.06 294.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13342,7 +13608,7 @@
 		)
 	)
 	(symbol
-		(lib_id "emberone:W25Q16JVUXIQ_TR")
+		(lib_id "bitcrane:W25Q16JVUXIQ_TR")
 		(at 111.76 334.01 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13395,7 +13661,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "256-W25Q16JVUXIQTRCT-ND"
+		(property "DK" ""
 			(at 112.522 353.822 0)
 			(effects
 				(font
@@ -13404,7 +13670,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "W25Q16JVUXIQ TR"
+		(property "PARTNO" ""
 			(at 113.03 356.108 0)
 			(effects
 				(font
@@ -13415,24 +13681,6 @@
 		)
 		(property "LCSC" "C2843335"
 			(at 112.522 358.648 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 111.76 334.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 111.76 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13531,7 +13779,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-49.9KLRCT-ND"
+		(property "DK" ""
 			(at 224.79 241.3 0)
 			(effects
 				(font
@@ -13540,25 +13788,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-0749K9L"
-			(at 224.79 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 224.79 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
+		(property "PARTNO" ""
 			(at 224.79 241.3 0)
 			(effects
 				(font
@@ -13645,7 +13875,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "RMCF0805FT12K0CT-ND"
+		(property "DK" ""
 			(at 114.3 96.52 0)
 			(effects
 				(font
@@ -13664,15 +13894,6 @@
 			)
 		)
 		(property "LCSC" "C25752"
-			(at 114.3 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 114.3 96.52 0)
 			(effects
 				(font
@@ -13763,7 +13984,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-10.0KLRCT-ND"
+		(property "DK" ""
 			(at 90.17 326.39 0)
 			(effects
 				(font
@@ -13772,7 +13993,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" ""
 			(at 90.17 326.39 0)
 			(effects
 				(font
@@ -13782,24 +14003,6 @@
 			)
 		)
 		(property "LCSC" "C25744"
-			(at 90.17 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 90.17 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 90.17 326.39 0)
 			(effects
 				(font
@@ -13905,15 +14108,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 450.85 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a8e90344-1ae0-4391-959d-746e13846391")
 		)
@@ -14002,7 +14196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "FH(风华)"
+		(property "Manufacturer" ""
 			(at 199.39 285.75 0)
 			(effects
 				(font
@@ -14011,7 +14205,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM1555C1H300JA01D"
+		(property "PARTNO" ""
 			(at 199.39 298.45 0)
 			(effects
 				(font
@@ -14020,7 +14214,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-5935-1-ND"
+		(property "DK" ""
 			(at 199.39 298.45 0)
 			(effects
 				(font
@@ -14030,24 +14224,6 @@
 			)
 		)
 		(property "LCSC" "C1570"
-			(at 199.39 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 199.39 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 199.39 298.45 0)
 			(effects
 				(font
@@ -14123,7 +14299,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 426.72 281.94 0)
 			(effects
 				(font
@@ -14143,15 +14319,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 426.72 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 426.72 281.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14238,7 +14405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(厚声)"
+		(property "Manufacturer" ""
 			(at 241.3 255.27 0)
 			(effects
 				(font
@@ -14247,7 +14414,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-0733RL"
+		(property "PARTNO" ""
 			(at 228.6 255.27 0)
 			(effects
 				(font
@@ -14256,7 +14423,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-33.0LRCT-ND"
+		(property "DK" ""
 			(at 228.6 255.27 0)
 			(effects
 				(font
@@ -14267,24 +14434,6 @@
 		)
 		(property "LCSC" "C25105"
 			(at 228.6 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 228.6 255.27 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 228.6 255.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14359,7 +14508,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 426.72 210.82 0)
 			(effects
 				(font
@@ -14379,15 +14528,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 426.72 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 426.72 210.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14477,7 +14617,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "732-2701-ND"
+		(property "DK" ""
 			(at 450.85 134.62 0)
 			(effects
 				(font
@@ -14486,7 +14626,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "61900411021"
+		(property "PARTNO" ""
 			(at 450.85 134.62 0)
 			(effects
 				(font
@@ -14496,15 +14636,6 @@
 			)
 		)
 		(property "LCSC" "C2982043"
-			(at 450.85 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 450.85 134.62 0)
 			(effects
 				(font
@@ -14601,15 +14732,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 303.53 288.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "139b36ab-51cf-4d8e-80fd-a2816ea248e0")
 		)
@@ -14649,7 +14771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "bitcart:CONN-TH_X2026WV-2-09D-46SN"
+		(property "Footprint" "bitcrane:CONN-TH_X2026WV-2-09D-46SN"
 			(at 449.58 208.28 0)
 			(effects
 				(font
@@ -14685,7 +14807,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "X2026WV-2x09D-46SN"
+		(property "PARTNO" ""
 			(at 449.58 208.28 0)
 			(effects
 				(font
@@ -14695,15 +14817,6 @@
 			)
 		)
 		(property "DK" ""
-			(at 449.58 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 449.58 208.28 0)
 			(effects
 				(font
@@ -14813,7 +14926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "bitcart:CONN-TH_6P-P2.00_PHD-2X3A"
+		(property "Footprint" "bitcrane:CONN-TH_6P-P2.00_PHD-2X3A"
 			(at 450.85 334.01 0)
 			(effects
 				(font
@@ -14840,7 +14953,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "S9470-ND"
+		(property "DK" ""
 			(at 450.85 334.01 0)
 			(effects
 				(font
@@ -14849,7 +14962,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "SWR204-NRTN-D03-ST-GA"
+		(property "PARTNO" ""
 			(at 450.85 334.01 0)
 			(effects
 				(font
@@ -14859,15 +14972,6 @@
 			)
 		)
 		(property "LCSC" "C2845614"
-			(at 450.85 334.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 450.85 334.01 0)
 			(effects
 				(font
@@ -14970,7 +15074,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" ""
 			(at 388.62 137.16 0)
 			(effects
 				(font
@@ -14979,7 +15083,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-10KJRCT-ND"
+		(property "DK" ""
 			(at 388.62 137.16 0)
 			(effects
 				(font
@@ -14998,15 +15102,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 388.62 137.16 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 388.62 137.16 90)
 			(effects
 				(font
@@ -15097,7 +15192,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "BSS138K-13"
+		(property "PARTNO" ""
 			(at 346.71 64.77 0)
 			(effects
 				(font
@@ -15106,7 +15201,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "BSS138K-13DICT-ND"
+		(property "DK" ""
 			(at 346.71 64.77 0)
 			(effects
 				(font
@@ -15116,15 +15211,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 346.71 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 346.71 64.77 0)
 			(effects
 				(font
@@ -15215,7 +15301,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "PARTNO" ""
 			(at 336.55 138.43 0)
 			(effects
 				(font
@@ -15224,7 +15310,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-1.00KLRCT-ND"
+		(property "DK" ""
 			(at 336.55 138.43 0)
 			(effects
 				(font
@@ -15243,15 +15329,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 336.55 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 336.55 138.43 90)
 			(effects
 				(font
@@ -15342,7 +15419,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "BSS138K-13"
+		(property "PARTNO" ""
 			(at 346.71 114.3 0)
 			(effects
 				(font
@@ -15351,7 +15428,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "BSS138K-13DICT-ND"
+		(property "DK" ""
 			(at 346.71 114.3 0)
 			(effects
 				(font
@@ -15361,15 +15438,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 346.71 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 346.71 114.3 0)
 			(effects
 				(font
@@ -15460,7 +15528,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "DDZ9684-7"
+		(property "PARTNO" ""
 			(at 394.97 92.71 0)
 			(effects
 				(font
@@ -15469,7 +15537,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "DDZ9684-7DICT-ND"
+		(property "DK" ""
 			(at 394.97 92.71 0)
 			(effects
 				(font
@@ -15479,15 +15547,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 394.97 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 394.97 92.71 90)
 			(effects
 				(font
@@ -15572,7 +15631,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 480.06 218.44 0)
 			(effects
 				(font
@@ -15592,15 +15651,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 480.06 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 480.06 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15690,15 +15740,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 303.53 290.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "bb83a83c-463f-4168-a0ac-0db60a0043e9")
 		)
@@ -15763,7 +15804,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 477.52 210.82 0)
 			(effects
 				(font
@@ -15783,15 +15824,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 477.52 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 477.52 210.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15879,15 +15911,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 453.39 393.7 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "aa7ed94f-1a40-445b-ab6d-8c01c7fe0709")
 		)
@@ -15955,7 +15978,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" ""
 			(at 388.62 63.5 0)
 			(effects
 				(font
@@ -15964,7 +15987,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-10KJRCT-ND"
+		(property "DK" ""
 			(at 388.62 63.5 0)
 			(effects
 				(font
@@ -15983,15 +16006,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 388.62 63.5 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 388.62 63.5 90)
 			(effects
 				(font
@@ -16077,15 +16091,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 453.39 388.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "35302e9b-7f3f-4f5f-aad9-02b7e8132270")
 		)
@@ -16144,15 +16149,6 @@
 		)
 		(property "Description" ""
 			(at 453.39 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 453.39 398.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16224,7 +16220,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 426.72 243.84 0)
 			(effects
 				(font
@@ -16244,15 +16240,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 426.72 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 426.72 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16339,7 +16326,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 426.72 285.75 0)
 			(effects
 				(font
@@ -16359,15 +16346,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 426.72 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 426.72 285.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16460,7 +16438,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "BSS138K-13"
+		(property "PARTNO" ""
 			(at 346.71 138.43 0)
 			(effects
 				(font
@@ -16469,7 +16447,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "BSS138K-13DICT-ND"
+		(property "DK" ""
 			(at 346.71 138.43 0)
 			(effects
 				(font
@@ -16479,15 +16457,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 346.71 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 346.71 138.43 0)
 			(effects
 				(font
@@ -16576,7 +16545,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "RMCF0402JT5K10CT-ND"
+		(property "DK" ""
 			(at 110.49 184.15 0)
 			(effects
 				(font
@@ -16585,7 +16554,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RMCF0402JT5K10"
+		(property "PARTNO" ""
 			(at 110.49 184.15 0)
 			(effects
 				(font
@@ -16596,24 +16565,6 @@
 		)
 		(property "LCSC" "C25905"
 			(at 110.49 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 110.49 184.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 110.49 184.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16688,7 +16639,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 482.6 213.36 0)
 			(effects
 				(font
@@ -16708,15 +16659,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 482.6 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 482.6 213.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16752,7 +16694,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bitcart:0455580003")
+		(lib_id "bitcrane:0455580003")
 		(at 80.01 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16808,7 +16750,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "WM10869-ND"
+		(property "DK" ""
 			(at 72.39 78.74 0)
 			(effects
 				(font
@@ -16817,7 +16759,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "0455580003"
+		(property "PARTNO" ""
 			(at 71.12 80.01 0)
 			(effects
 				(font
@@ -16828,15 +16770,6 @@
 		)
 		(property "LCSC" "C492365"
 			(at 80.01 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 80.01 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16938,15 +16871,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 303.53 283.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4232276d-1fda-4212-92ff-bdd34ed1dbd6")
 		)
@@ -17017,7 +16941,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "BSS138K-13"
+		(property "PARTNO" ""
 			(at 346.71 90.17 0)
 			(effects
 				(font
@@ -17026,7 +16950,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "BSS138K-13DICT-ND"
+		(property "DK" ""
 			(at 346.71 90.17 0)
 			(effects
 				(font
@@ -17036,15 +16960,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 346.71 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 346.71 90.17 0)
 			(effects
 				(font
@@ -17135,15 +17050,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 303.53 300.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "fc56af69-d05b-454f-8201-ed890bff5505")
 		)
@@ -17211,7 +17117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 226.06 204.47 0)
 			(effects
 				(font
@@ -17220,7 +17126,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 226.06 217.17 0)
 			(effects
 				(font
@@ -17229,7 +17135,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 226.06 217.17 0)
 			(effects
 				(font
@@ -17239,24 +17145,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 226.06 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 226.06 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 226.06 217.17 0)
 			(effects
 				(font
@@ -17334,7 +17222,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "1276-6840-1-ND"
+		(property "DK" ""
 			(at 134.62 82.55 0)
 			(effects
 				(font
@@ -17343,7 +17231,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 134.62 82.55 0)
 			(effects
 				(font
@@ -17353,15 +17241,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 134.62 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 134.62 82.55 0)
 			(effects
 				(font
@@ -17452,7 +17331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 237.49 204.47 0)
 			(effects
 				(font
@@ -17461,7 +17340,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 237.49 217.17 0)
 			(effects
 				(font
@@ -17470,7 +17349,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 237.49 217.17 0)
 			(effects
 				(font
@@ -17480,24 +17359,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 237.49 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 237.49 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 237.49 217.17 0)
 			(effects
 				(font
@@ -17522,7 +17383,7 @@
 		)
 	)
 	(symbol
-		(lib_id "athvfd:SK6812SIDE-A-RVS")
+		(lib_id "bitcrane:SK6812SIDE-A-RVS")
 		(at 332.74 307.34 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17582,7 +17443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" ""
+		(property "DK" ""
 			(at 332.74 307.34 0)
 			(effects
 				(font
@@ -17591,25 +17452,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "1528-4691-ND-$$$$$"
-			(at 332.74 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "SK6812SIDE-A-RVS"
-			(at 332.74 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
+		(property "PARTNO" ""
 			(at 332.74 307.34 0)
 			(effects
 				(font
@@ -17694,15 +17537,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 303.53 293.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "834dd4e3-18e0-4371-84fd-73e2b56a09bb")
 		)
@@ -17769,7 +17603,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "WM13195-ND"
+		(property "DK" ""
 			(at 464.82 83.82 0)
 			(effects
 				(font
@@ -17778,7 +17612,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "0353180420"
+		(property "PARTNO" ""
 			(at 464.82 83.82 0)
 			(effects
 				(font
@@ -17788,15 +17622,6 @@
 			)
 		)
 		(property "LCSC" "C54909"
-			(at 464.82 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 464.82 83.82 0)
 			(effects
 				(font
@@ -17878,7 +17703,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 477.52 247.65 0)
 			(effects
 				(font
@@ -17898,15 +17723,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 477.52 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 477.52 247.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17989,15 +17805,6 @@
 		)
 		(property "Description" ""
 			(at 303.53 295.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 303.53 295.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18089,25 +17896,16 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" ""
-			(at 124.46 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 124.46 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C15578"
+			(at 124.46 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field6" ""
 			(at 124.46 262.89 0)
 			(effects
 				(font
@@ -18189,7 +17987,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 426.72 205.74 0)
 			(effects
 				(font
@@ -18209,15 +18007,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 426.72 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 426.72 205.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18279,7 +18068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "bitcart:CONN-TH_X2026WV-2-09D-46SN"
+		(property "Footprint" "bitcrane:CONN-TH_X2026WV-2-09D-46SN"
 			(at 449.58 245.11 0)
 			(effects
 				(font
@@ -18315,7 +18104,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "X2026WV-2x09D-46SN"
+		(property "PARTNO" ""
 			(at 449.58 245.11 0)
 			(effects
 				(font
@@ -18325,15 +18114,6 @@
 			)
 		)
 		(property "DK" ""
-			(at 449.58 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 449.58 245.11 0)
 			(effects
 				(font
@@ -18418,7 +18198,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Power_Protection:TPD1E05U06DYA")
+		(lib_id "bitcrane:TPD1E05U06DYA")
 		(at 132.08 199.39 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18474,7 +18254,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "TPD1E05U06DYAR"
+		(property "PARTNO" ""
 			(at 132.08 199.39 90)
 			(effects
 				(font
@@ -18483,25 +18263,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "296-TPD1E05U06DYARCT-ND"
-			(at 132.08 199.39 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 132.08 199.39 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
+		(property "DK" ""
 			(at 132.08 199.39 90)
 			(effects
 				(font
@@ -18615,15 +18377,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 464.82 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "91d4fcd1-9965-4e16-88c3-bd7c7a2b1a37")
 		)
@@ -18700,7 +18453,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "PARTNO" ""
 			(at 336.55 114.3 0)
 			(effects
 				(font
@@ -18709,7 +18462,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-1.00KLRCT-ND"
+		(property "DK" ""
 			(at 336.55 114.3 0)
 			(effects
 				(font
@@ -18728,15 +18481,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 336.55 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 336.55 114.3 90)
 			(effects
 				(font
@@ -18796,7 +18540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "bitcart:CONN-TH_X2026WV-2-09D-46SN"
+		(property "Footprint" "bitcrane:CONN-TH_X2026WV-2-09D-46SN"
 			(at 449.58 283.21 0)
 			(effects
 				(font
@@ -18832,7 +18576,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "X2026WV-2x09D-46SN"
+		(property "PARTNO" ""
 			(at 449.58 283.21 0)
 			(effects
 				(font
@@ -18842,15 +18586,6 @@
 			)
 		)
 		(property "DK" ""
-			(at 449.58 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 449.58 283.21 0)
 			(effects
 				(font
@@ -18989,7 +18724,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" ""
 			(at 388.62 113.03 0)
 			(effects
 				(font
@@ -18998,7 +18733,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-10KJRCT-ND"
+		(property "DK" ""
 			(at 388.62 113.03 0)
 			(effects
 				(font
@@ -19017,15 +18752,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 388.62 113.03 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 388.62 113.03 90)
 			(effects
 				(font
@@ -19113,7 +18839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 359.41 204.47 0)
 			(effects
 				(font
@@ -19122,7 +18848,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 359.41 217.17 0)
 			(effects
 				(font
@@ -19131,7 +18857,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 359.41 217.17 0)
 			(effects
 				(font
@@ -19141,24 +18867,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 359.41 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 359.41 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 359.41 217.17 0)
 			(effects
 				(font
@@ -19237,7 +18945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 302.26 204.47 0)
 			(effects
 				(font
@@ -19246,7 +18954,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 302.26 217.17 0)
 			(effects
 				(font
@@ -19255,7 +18963,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 302.26 217.17 0)
 			(effects
 				(font
@@ -19265,24 +18973,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 302.26 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 302.26 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 302.26 217.17 0)
 			(effects
 				(font
@@ -19307,6 +18997,7 @@
 		)
 	)
 	(symbol
+		(lib_name "GT-TC029B-H025-L1N_1")
 		(lib_id "bitaxe:GT-TC029B-H025-L1N")
 		(at 201.93 245.11 0)
 		(mirror y)
@@ -19334,7 +19025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "bitcrane:SW-SMD_L3.9-W3.0-P4.45"
+		(property "Footprint" "bitaxe:SW_CS1213AGF260_CRS"
 			(at 201.93 252.73 0)
 			(effects
 				(font
@@ -19343,7 +19034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.citrelay.com/Catalog%20Pages/SwitchCatalog/CS1213.pdf"
 			(at 201.93 255.27 0)
 			(effects
 				(font
@@ -19361,7 +19052,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "2449-CS1213AGF260CT-ND"
 			(at 201.93 245.11 0)
 			(effects
 				(font
@@ -19370,25 +19061,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
-			(at 201.93 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 201.93 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C720477"
+		(property "PARTNO" "CS1213AGF260"
 			(at 201.93 245.11 0)
 			(effects
 				(font
@@ -19475,7 +19148,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "WM13195-ND"
+		(property "DK" ""
 			(at 464.82 58.42 0)
 			(effects
 				(font
@@ -19484,7 +19157,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "0353180420"
+		(property "PARTNO" ""
 			(at 464.82 58.42 0)
 			(effects
 				(font
@@ -19494,15 +19167,6 @@
 			)
 		)
 		(property "LCSC" "C54909"
-			(at 464.82 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 464.82 58.42 0)
 			(effects
 				(font
@@ -19587,7 +19251,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "DDZ9684-7"
+		(property "PARTNO" ""
 			(at 394.97 140.97 0)
 			(effects
 				(font
@@ -19596,7 +19260,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "DDZ9684-7DICT-ND"
+		(property "DK" ""
 			(at 394.97 140.97 0)
 			(effects
 				(font
@@ -19606,15 +19270,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 394.97 140.97 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 394.97 140.97 90)
 			(effects
 				(font
@@ -19649,7 +19304,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 253.238 151.13 0)
+		(at 252.73 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -19657,7 +19312,7 @@
 		(dnp no)
 		(uuid "7d7f6cf5-3cec-4d47-b78e-b54ec9c95eef")
 		(property "Reference" "J15"
-			(at 255.27 151.1299 0)
+			(at 254.762 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19666,7 +19321,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04"
-			(at 255.27 153.6699 0)
+			(at 254.762 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19675,7 +19330,7 @@
 			)
 		)
 		(property "Footprint" "bitaxe:PinHeader_1x04_P2.54mm_Vertical_shifted"
-			(at 253.238 151.13 0)
+			(at 252.73 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19684,7 +19339,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 253.238 151.13 0)
+			(at 252.73 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19693,16 +19348,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 253.238 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 253.238 151.13 0)
+			(at 252.73 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19783,7 +19429,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 481.33 256.54 0)
 			(effects
 				(font
@@ -19803,15 +19449,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 481.33 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 481.33 256.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19899,7 +19536,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 477.52 205.74 0)
 			(effects
 				(font
@@ -19919,15 +19556,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 477.52 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 477.52 205.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19963,7 +19591,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Crystal_GND24_common")
+		(lib_id "bitcrane:Crystal_GND24_common")
 		(at 187.96 292.1 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20014,7 +19642,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "ECS-120-20-33-CKM-TR3"
+		(property "PARTNO" ""
 			(at 187.96 292.1 0)
 			(effects
 				(font
@@ -20023,7 +19651,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "50-ECS-120-20-33-CKM-TR3CT-ND"
+		(property "DK" ""
 			(at 187.96 292.1 0)
 			(effects
 				(font
@@ -20033,24 +19661,6 @@
 			)
 		)
 		(property "LCSC" "C9002"
-			(at 187.96 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 187.96 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 187.96 292.1 0)
 			(effects
 				(font
@@ -20142,7 +19752,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "PARTNO" ""
 			(at 213.36 262.89 0)
 			(effects
 				(font
@@ -20151,7 +19761,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-1.00KLRCT-ND"
+		(property "DK" ""
 			(at 213.36 262.89 0)
 			(effects
 				(font
@@ -20162,24 +19772,6 @@
 		)
 		(property "LCSC" "C106235"
 			(at 213.36 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 213.36 262.89 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 213.36 262.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20257,15 +19849,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 303.53 285.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a2039b46-5e7e-47e8-b748-ffe819d7191e")
 		)
@@ -20331,7 +19914,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 477.52 243.84 0)
 			(effects
 				(font
@@ -20351,15 +19934,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 477.52 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 477.52 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20448,7 +20022,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18663-1-ND"
+		(property "DK" ""
 			(at 146.05 88.9 0)
 			(effects
 				(font
@@ -20457,7 +20031,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM21BR61H106KE43L"
+		(property "PARTNO" ""
 			(at 146.05 88.9 0)
 			(effects
 				(font
@@ -20467,15 +20041,6 @@
 			)
 		)
 		(property "LCSC" "C440198"
-			(at 146.05 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 146.05 88.9 0)
 			(effects
 				(font
@@ -20566,7 +20131,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "DMP3013SFV-7DICT-ND"
+		(property "DK" ""
 			(at 106.68 81.28 90)
 			(effects
 				(font
@@ -20575,7 +20140,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "DMP3013SFV-7"
+		(property "PARTNO" ""
 			(at 106.68 81.28 90)
 			(effects
 				(font
@@ -20586,15 +20151,6 @@
 		)
 		(property "LCSC" "C264098"
 			(at 106.68 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 106.68 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20699,7 +20255,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 482.6 250.19 0)
 			(effects
 				(font
@@ -20719,15 +20275,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 482.6 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 482.6 250.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20814,7 +20361,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 482.6 288.29 0)
 			(effects
 				(font
@@ -20834,15 +20381,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 482.6 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 482.6 288.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20932,7 +20470,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "PARTNO" ""
 			(at 336.55 90.17 0)
 			(effects
 				(font
@@ -20941,7 +20479,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-1.00KLRCT-ND"
+		(property "DK" ""
 			(at 336.55 90.17 0)
 			(effects
 				(font
@@ -20960,15 +20498,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 336.55 90.17 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 336.55 90.17 90)
 			(effects
 				(font
@@ -21056,15 +20585,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 303.53 280.67 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e86a083f-059c-4798-bf8c-07851ded3c36")
 		)
@@ -21132,7 +20652,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "DDZ9684-7"
+		(property "PARTNO" ""
 			(at 394.97 67.31 0)
 			(effects
 				(font
@@ -21141,7 +20661,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "DDZ9684-7DICT-ND"
+		(property "DK" ""
 			(at 394.97 67.31 0)
 			(effects
 				(font
@@ -21151,15 +20671,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 394.97 67.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 394.97 67.31 90)
 			(effects
 				(font
@@ -21247,7 +20758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 336.55 204.47 0)
 			(effects
 				(font
@@ -21256,7 +20767,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 336.55 217.17 0)
 			(effects
 				(font
@@ -21265,7 +20776,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 336.55 217.17 0)
 			(effects
 				(font
@@ -21275,24 +20786,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 336.55 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 336.55 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 336.55 217.17 0)
 			(effects
 				(font
@@ -21371,15 +20864,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 303.53 298.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e20024cc-f053-412a-9305-e501661838a1")
 		)
@@ -21447,7 +20931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 313.69 204.47 0)
 			(effects
 				(font
@@ -21456,7 +20940,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 313.69 217.17 90)
 			(effects
 				(font
@@ -21465,7 +20949,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 313.69 217.17 0)
 			(effects
 				(font
@@ -21475,24 +20959,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 313.69 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 313.69 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 313.69 217.17 0)
 			(effects
 				(font
@@ -21517,7 +20983,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:BZX84Cxx")
+		(lib_id "bitcrane:BZX84Cxx")
 		(at 114.3 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21553,7 +21019,7 @@
 			)
 		)
 		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf"
-			(at 114.3 83.82 0)
+			(at 107.696 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21579,7 +21045,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "LBZX84C12LT1G"
+		(property "PARTNO" ""
 			(at 114.3 83.82 0)
 			(effects
 				(font
@@ -21589,16 +21055,7 @@
 			)
 		)
 		(property "LCSC" "C12773"
-			(at 114.3 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 114.3 83.82 90)
+			(at 105.41 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21691,15 +21148,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 433.07 331.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ceae1e9a-97c4-4017-a36b-d0b8f2b09538")
 		)
@@ -21765,7 +21213,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 477.52 281.94 0)
 			(effects
 				(font
@@ -21785,15 +21233,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 477.52 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 477.52 281.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21876,15 +21315,6 @@
 		)
 		(property "Description" ""
 			(at 303.53 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 303.53 303.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21985,15 +21415,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 464.82 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a3110516-e6e0-4a3e-9f21-53a6567884e8")
 		)
@@ -22070,7 +21491,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "732-2701-ND"
+		(property "DK" ""
 			(at 450.85 110.49 0)
 			(effects
 				(font
@@ -22079,7 +21500,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "61900411021"
+		(property "PARTNO" ""
 			(at 450.85 110.49 0)
 			(effects
 				(font
@@ -22089,15 +21510,6 @@
 			)
 		)
 		(property "LCSC" "C2982043"
-			(at 450.85 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 450.85 110.49 0)
 			(effects
 				(font
@@ -22194,15 +21606,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 467.36 334.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "81d2f301-14e6-4cf0-97ed-42d0a7ed7ad5")
 		)
@@ -22267,7 +21670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 279.4 204.47 0)
 			(effects
 				(font
@@ -22276,7 +21679,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" ""
 			(at 279.4 217.17 0)
 			(effects
 				(font
@@ -22285,7 +21688,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
+		(property "DK" ""
 			(at 279.4 217.17 0)
 			(effects
 				(font
@@ -22295,24 +21698,6 @@
 			)
 		)
 		(property "LCSC" "C52923"
-			(at 279.4 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 279.4 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 279.4 217.17 0)
 			(effects
 				(font
@@ -22390,7 +21775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 250.19 204.47 0)
 			(effects
 				(font
@@ -22399,7 +21784,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" ""
 			(at 250.19 217.17 0)
 			(effects
 				(font
@@ -22408,7 +21793,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
+		(property "DK" ""
 			(at 250.19 217.17 0)
 			(effects
 				(font
@@ -22418,24 +21803,6 @@
 			)
 		)
 		(property "LCSC" "C52923"
-			(at 250.19 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 250.19 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 250.19 217.17 0)
 			(effects
 				(font
@@ -22460,7 +21827,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Power_Protection:TPD1E05U06DYA")
+		(lib_id "bitcrane:TPD1E05U06DYA")
 		(at 140.97 191.77 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22516,25 +21883,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "296-TPD1E05U06DYARCT-ND"
-			(at 140.97 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "TPD1E05U06DYAR"
-			(at 140.97 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
+		(property "DK" ""
 			(at 140.97 191.77 90)
 			(effects
 				(font
@@ -22543,7 +21892,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "PARTNO" ""
 			(at 140.97 191.77 90)
 			(effects
 				(font
@@ -22631,15 +21980,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 104.14 271.78 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "db20fe49-6731-43f1-89a9-5e5720cb6b93")
 		)
@@ -22707,7 +22047,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "SMBJP6KE6.8A-TP"
+		(property "PARTNO" ""
 			(at 130.81 181.61 90)
 			(effects
 				(font
@@ -22716,25 +22056,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "SMBJP6KE6.8A-TPMSCT-ND"
-			(at 130.81 181.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 130.81 181.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
+		(property "DK" ""
 			(at 130.81 181.61 90)
 			(effects
 				(font
@@ -22768,7 +22090,7 @@
 		)
 	)
 	(symbol
-		(lib_id "aditBoard:USB_C_Receptacle_USB2.0")
+		(lib_id "bitcrane:USB_C_Receptacle_USB2.0")
 		(at 88.9 191.77 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22796,7 +22118,7 @@
 			)
 		)
 		(property "Footprint" "bitcrane:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
-			(at 92.71 191.77 0)
+			(at 90.932 166.878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22805,7 +22127,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 92.71 191.77 0)
+			(at 90.932 166.878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22822,7 +22144,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "2073-USB4105-GF-ACT-ND"
+		(property "DK" ""
 			(at 88.9 191.77 0)
 			(effects
 				(font
@@ -22831,7 +22153,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "USB4105-GF-A"
+		(property "PARTNO" ""
 			(at 88.9 191.77 0)
 			(effects
 				(font
@@ -22841,24 +22163,6 @@
 			)
 		)
 		(property "LCSC" "C2988369"
-			(at 88.9 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 88.9 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 88.9 191.77 0)
 			(effects
 				(font
@@ -22970,7 +22274,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "DDZ9684-7"
+		(property "PARTNO" ""
 			(at 394.97 116.84 0)
 			(effects
 				(font
@@ -22979,7 +22283,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "DDZ9684-7DICT-ND"
+		(property "DK" ""
 			(at 394.97 116.84 0)
 			(effects
 				(font
@@ -22989,15 +22293,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 394.97 116.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 394.97 116.84 90)
 			(effects
 				(font
@@ -23085,7 +22380,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "PARTNO" ""
 			(at 336.55 64.77 0)
 			(effects
 				(font
@@ -23094,7 +22389,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-1.00KLRCT-ND"
+		(property "DK" ""
 			(at 336.55 64.77 0)
 			(effects
 				(font
@@ -23113,15 +22408,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 336.55 64.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 336.55 64.77 90)
 			(effects
 				(font
@@ -23207,15 +22493,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 453.39 383.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "b9c2f47f-32bc-4ccd-b782-ff1dc1dac3aa")
 		)
@@ -23276,15 +22553,6 @@
 		)
 		(property "Description" ""
 			(at 156.21 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 156.21 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23370,7 +22638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 290.83 204.47 0)
 			(effects
 				(font
@@ -23379,7 +22647,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 290.83 217.17 0)
 			(effects
 				(font
@@ -23388,7 +22656,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 290.83 217.17 0)
 			(effects
 				(font
@@ -23398,24 +22666,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 290.83 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 290.83 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 290.83 217.17 0)
 			(effects
 				(font
@@ -23494,7 +22744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 347.98 204.47 0)
 			(effects
 				(font
@@ -23503,7 +22753,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 347.98 217.17 0)
 			(effects
 				(font
@@ -23512,7 +22762,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 347.98 217.17 0)
 			(effects
 				(font
@@ -23522,24 +22772,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 347.98 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 347.98 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 347.98 217.17 0)
 			(effects
 				(font
@@ -23617,7 +22849,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "1276-1066-1-ND"
+		(property "DK" ""
 			(at 104.14 264.16 0)
 			(effects
 				(font
@@ -23627,7 +22859,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" ""
 			(at 104.14 264.16 0)
 			(effects
 				(font
@@ -23637,15 +22869,6 @@
 			)
 		)
 		(property "LCSC" "C52923"
-			(at 104.14 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 104.14 264.16 0)
 			(effects
 				(font
@@ -23736,15 +22959,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 104.14 257.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c59058a5-0764-4f77-9577-b4cfac4963c8")
 		)
@@ -23821,7 +23035,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 477.52 285.75 0)
 			(effects
 				(font
@@ -23841,15 +23055,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 477.52 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 477.52 285.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23936,7 +23141,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 426.72 247.65 0)
 			(effects
 				(font
@@ -23956,15 +23161,6 @@
 		)
 		(property "LCSC" "C25900"
 			(at 426.72 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 426.72 247.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24001,7 +23197,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 297.18 308.61 270)
+		(at 303.53 308.61 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -24009,7 +23205,7 @@
 		(dnp no)
 		(uuid "e22318da-6274-4ccc-9b10-ded4135eda43")
 		(property "Reference" "TP4"
-			(at 301.625 308.61 90)
+			(at 307.975 308.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24018,7 +23214,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 297.8658 310.0832 0)
+			(at 304.2158 310.0832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24028,7 +23224,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 297.18 313.69 0)
+			(at 303.53 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24037,7 +23233,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 297.18 313.69 0)
+			(at 303.53 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24046,16 +23242,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 297.18 308.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 297.18 308.61 90)
+			(at 303.53 308.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24127,7 +23314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(厚声)"
+		(property "Manufacturer" ""
 			(at 241.3 252.73 0)
 			(effects
 				(font
@@ -24136,7 +23323,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-0733RL"
+		(property "PARTNO" ""
 			(at 228.6 252.73 0)
 			(effects
 				(font
@@ -24145,7 +23332,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-33.0LRCT-ND"
+		(property "DK" ""
 			(at 228.6 252.73 0)
 			(effects
 				(font
@@ -24156,24 +23343,6 @@
 		)
 		(property "LCSC" "C25105"
 			(at 228.6 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 228.6 252.73 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 228.6 252.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24251,7 +23420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 325.12 204.47 0)
 			(effects
 				(font
@@ -24260,7 +23429,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 325.12 217.17 0)
 			(effects
 				(font
@@ -24269,7 +23438,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 325.12 217.17 0)
 			(effects
 				(font
@@ -24279,24 +23448,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 325.12 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 325.12 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 325.12 217.17 0)
 			(effects
 				(font
@@ -24375,7 +23526,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" ""
 			(at 388.62 88.9 0)
 			(effects
 				(font
@@ -24384,7 +23535,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-10KJRCT-ND"
+		(property "DK" ""
 			(at 388.62 88.9 0)
 			(effects
 				(font
@@ -24403,15 +23554,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 388.62 88.9 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 388.62 88.9 90)
 			(effects
 				(font
@@ -24499,15 +23641,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 142.24 257.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a6bdbbe7-5f62-4e81-9383-ecdcb3b28ff6")
 		)
@@ -24559,7 +23692,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "bitcrane:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
+		(property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
 			(at 265.43 211.836 0)
 			(effects
 				(font
@@ -24614,15 +23747,6 @@
 			)
 		)
 		(property "Field6" ""
-			(at 261.62 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 261.62 283.21 0)
 			(effects
 				(font
@@ -24864,7 +23988,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "RMCF0402JT5K10CT-ND"
+		(property "DK" ""
 			(at 116.84 181.61 0)
 			(effects
 				(font
@@ -24873,7 +23997,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RMCF0402JT5K10"
+		(property "PARTNO" ""
 			(at 116.84 181.61 0)
 			(effects
 				(font
@@ -24884,24 +24008,6 @@
 		)
 		(property "LCSC" "C25905"
 			(at 116.84 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 116.84 181.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 116.84 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24979,7 +24085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 151.13 328.93 0)
 			(effects
 				(font
@@ -24988,7 +24094,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 151.13 341.63 0)
 			(effects
 				(font
@@ -24997,7 +24103,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 151.13 341.63 0)
 			(effects
 				(font
@@ -25007,24 +24113,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 151.13 341.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 151.13 341.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 151.13 341.63 0)
 			(effects
 				(font
@@ -25104,7 +24192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "FH(风华)"
+		(property "Manufacturer" ""
 			(at 176.53 285.75 0)
 			(effects
 				(font
@@ -25113,7 +24201,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM1555C1H300JA01D"
+		(property "PARTNO" ""
 			(at 176.53 298.45 0)
 			(effects
 				(font
@@ -25122,7 +24210,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-5935-1-ND"
+		(property "DK" ""
 			(at 176.53 298.45 0)
 			(effects
 				(font
@@ -25132,24 +24220,6 @@
 			)
 		)
 		(property "LCSC" "C1570"
-			(at 176.53 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 176.53 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 176.53 298.45 0)
 			(effects
 				(font
@@ -25227,7 +24297,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "1276-1066-1-ND"
+		(property "DK" ""
 			(at 142.24 264.16 0)
 			(effects
 				(font
@@ -25237,7 +24307,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" ""
 			(at 142.24 264.16 0)
 			(effects
 				(font
@@ -25247,15 +24317,6 @@
 			)
 		)
 		(property "LCSC" "C52923"
-			(at 142.24 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 142.24 264.16 0)
 			(effects
 				(font
@@ -25373,15 +24434,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 450.85 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "0713fc7d-d715-4304-9819-71604f242567")
 		)
@@ -25469,7 +24521,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "1276-6840-1-ND"
+		(property "DK" ""
 			(at 92.71 83.82 0)
 			(effects
 				(font
@@ -25478,7 +24530,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 92.71 83.82 0)
 			(effects
 				(font
@@ -25488,15 +24540,6 @@
 			)
 		)
 		(property "LCSC" "C307331"
-			(at 92.71 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 92.71 83.82 0)
 			(effects
 				(font
@@ -25560,7 +24603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "bitcrane:SW-SMD_L3.9-W3.0-P4.45"
+		(property "Footprint" "bitaxe:SW_CS1213AGF260_CRS"
 			(at 201.93 270.51 0)
 			(effects
 				(font
@@ -25569,7 +24612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.citrelay.com/Catalog%20Pages/SwitchCatalog/CS1213.pdf"
 			(at 201.93 273.05 0)
 			(effects
 				(font
@@ -25587,7 +24630,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "2449-CS1213AGF260CT-ND"
 			(at 201.93 262.89 0)
 			(effects
 				(font
@@ -25596,16 +24639,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
-			(at 201.93 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C720477"
+		(property "PARTNO" "CS1213AGF260"
 			(at 201.93 262.89 0)
 			(effects
 				(font

@@ -287,7 +287,7 @@
 				)
 			)
 		)
-		(property "DK" "RMCF0402JT5K10CT-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -300,7 +300,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RMCF0402JT5K10"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -552,7 +552,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -802,7 +802,7 @@
 				)
 			)
 		)
-		(property "DK" "296-28778-1-ND"
+		(property "DK" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -815,7 +815,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "TLV1117LV33DCYR"
+		(property "PARTNO" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -847,6 +847,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6d184312-593a-4e01-ae12-23445fb23bb0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C15578"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d0f8e8f-df4d-4723-805f-4d28bdc44a26")
 			(effects
 				(font
 					(size 1 1)
@@ -1184,7 +1197,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1223,7 +1236,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1236,7 +1249,7 @@
 				)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1594,7 +1607,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH(风华)"
+		(property "Manufacturer" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1633,7 +1646,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "GRM1555C1H300JA01D"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1646,7 +1659,7 @@
 				)
 			)
 		)
-		(property "DK" "490-5935-1-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2002,7 +2015,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2254,7 +2267,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2506,7 +2519,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2760,7 +2773,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "DDZ9684-7"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2773,7 +2786,7 @@
 				)
 			)
 		)
-		(property "DK" "DDZ9684-7DICT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3122,7 +3135,7 @@
 				)
 			)
 		)
-		(property "DK" "311-10.0KLRCT-ND"
+		(property "DK" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3135,7 +3148,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3634,7 +3647,7 @@
 				)
 			)
 		)
-		(property "DK" "1528-4691-ND-$$$$$"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3647,7 +3660,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "SK6812SIDE-A-RVS"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4512,7 +4525,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4764,7 +4777,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "BSS138K-13"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4777,7 +4790,7 @@
 				)
 			)
 		)
-		(property "DK" "BSS138K-13DICT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4809,6 +4822,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "73449263-5746-4703-926f-73de411ccdd7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C5248642"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e6dfa29-0447-42a4-b8eb-595f01ed4f5c")
 			(effects
 				(font
 					(size 1 1)
@@ -5140,7 +5166,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "ECS-120-20-33-CKM-TR3"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5166,7 +5192,7 @@
 				)
 			)
 		)
-		(property "DK" "50-ECS-120-20-33-CKM-TR3CT-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5735,7 +5761,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5934,7 +5960,7 @@
 			)
 		)
 	)
-	(footprint "bitcart:CONN-TH_X2026WV-2-09D-46SN"
+	(footprint "bitcrane:CONN-TH_X2026WV-2-09D-46SN"
 		(layer "F.Cu")
 		(uuid "25855c2c-1657-488e-b0ee-c31d4bbbf42e")
 		(at 72.07 41.97)
@@ -5999,7 +6025,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "X2026WV-2x09D-46SN"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6062,7 +6088,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "beaae7f5-b9a4-4857-aa2d-6a6190db3a52")
+			(uuid "1891ab47-ee41-4188-8aa8-2bbc9db71600")
 		)
 		(fp_line
 			(start -10 -3.65)
@@ -6072,7 +6098,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "21177078-c944-4691-a9ea-9b09aacd3385")
+			(uuid "23757915-1900-4693-8f3f-79ea149939c1")
 		)
 		(fp_line
 			(start 10 -3.65)
@@ -6082,7 +6108,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "101bd134-8f85-445b-839b-83d13ed67db3")
+			(uuid "6e590021-f794-4867-bc6d-76c12ec758f7")
 		)
 		(fp_line
 			(start 10 3.65)
@@ -6092,7 +6118,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0e59487b-62d5-45f8-bce4-3324ffb24bbe")
+			(uuid "7de1fa06-1d27-4073-818d-aa7d3f3bd183")
 		)
 		(fp_rect
 			(start -8.968 -1.932)
@@ -6103,7 +6129,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "7a5ca24e-e6c6-4466-812f-3048c4cfc0ce")
+			(uuid "7cfed3b8-0c8d-49f9-abb6-a8e5112d77b4")
 		)
 		(fp_rect
 			(start -10.55 -4.229)
@@ -6114,7 +6140,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "053dd86b-eab9-4cfe-bbf6-f41f6ff34a9d")
+			(uuid "93994a74-8f3a-4a18-8fcf-9fd213b04e0f")
 		)
 		(fp_line
 			(start -8 3.666)
@@ -6124,7 +6150,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "172779e0-3903-4e98-a2de-474ca7d39b7b")
+			(uuid "9486f6af-65ff-4f95-b276-c2bcca51d2b6")
 		)
 		(fp_line
 			(start 8 3.68)
@@ -6134,7 +6160,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d04ea766-ddd5-4a82-b8f3-583854bacdb2")
+			(uuid "1772bec3-b25d-429a-834a-cf23526f68b9")
 		)
 		(fp_line
 			(start 8 4.38)
@@ -6144,7 +6170,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "174b5dac-32c2-43b0-a4c2-dcad9971f4a6")
+			(uuid "6c9a4bcd-808b-4855-b259-f71ead034275")
 		)
 		(fp_circle
 			(center 10 4.35)
@@ -6155,7 +6181,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "55925eaa-1e09-423d-ac78-20f9c48a0654")
+			(uuid "4a0a0e47-20a6-46d4-8ed7-e9433c47d51a")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.251 7.028 0)
@@ -6432,7 +6458,7 @@
 				)
 			)
 		)
-		(property "DK" "WM10869-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6444,7 +6470,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "0455580003"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6777,7 +6803,7 @@
 				)
 			)
 		)
-		(property "DK" "WM13195-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6789,7 +6815,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "0353180420"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7037,7 +7063,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7289,7 +7315,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7543,7 +7569,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH(风华)"
+		(property "Manufacturer" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7582,7 +7608,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "GRM1555C1H300JA01D"
+		(property "PARTNO" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7595,7 +7621,7 @@
 				)
 			)
 		)
-		(property "DK" "490-5935-1-ND"
+		(property "DK" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7834,7 +7860,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "BSS138K-13"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7847,7 +7873,7 @@
 				)
 			)
 		)
-		(property "DK" "BSS138K-13DICT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7879,6 +7905,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "df092347-6fa1-468a-b415-aedbfbcd9f8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C5248642"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f728767-50ba-415c-872a-d51511d32338")
 			(effects
 				(font
 					(size 1 1)
@@ -8331,7 +8370,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8370,7 +8409,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8383,7 +8422,7 @@
 				)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8585,7 +8624,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "TS-1088-AR02016"
 			(at 0 4 270)
 			(layer "F.Fab")
 			(uuid "73221a0f-8e01-438c-b463-cd7cdf025922")
@@ -8652,6 +8691,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4895f06c-56d0-4678-87da-28d240d1c2e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C720477"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff7cac8e-0c23-4578-a838-4c576b2e7cc5")
 			(effects
 				(font
 					(size 1 1)
@@ -8955,7 +9007,7 @@
 				)
 			)
 		)
-		(property "DK" "DMP3013SFV-7DICT-ND"
+		(property "DK" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8967,7 +9019,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "DMP3013SFV-7"
+		(property "PARTNO" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9153,7 +9205,7 @@
 			(net 2 "Net-(C1-Pad1)")
 			(pinfunction "D")
 			(pintype "passive")
-			(uuid "e8c298cb-105d-4f2d-ad09-d24a9c96a181")
+			(uuid "4e1db91d-50bb-40b3-b878-0e4212949662")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3d/POWERPAK-1212-8_L3.1-W3.1-P0.65-LS3.3-BL.wrl"
@@ -9223,7 +9275,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9262,7 +9314,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9275,7 +9327,7 @@
 				)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9526,7 +9578,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "LBZX84C12LT1G"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9774,7 +9826,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9813,7 +9865,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9826,7 +9878,7 @@
 				)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10197,7 +10249,7 @@
 				)
 			)
 		)
-		(property "DK" "1276-1066-1-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10210,7 +10262,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10451,7 +10503,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10490,7 +10542,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10503,7 +10555,7 @@
 				)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10742,7 +10794,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10994,7 +11046,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "BSS138K-13"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11007,7 +11059,7 @@
 				)
 			)
 		)
-		(property "DK" "BSS138K-13DICT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11039,6 +11091,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e1f3f206-85e4-4f81-8ce8-9fd454ae59ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C5248642"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e700e771-6f85-4d42-a9c5-cc4c5cf5dea1")
 			(effects
 				(font
 					(size 1 1)
@@ -11372,7 +11437,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11624,7 +11689,7 @@
 				)
 			)
 		)
-		(property "DK" "732-2701-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11636,7 +11701,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "61900411021"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11870,7 +11935,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11883,7 +11948,7 @@
 				)
 			)
 		)
-		(property "DK" "311-1.00KLRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12512,7 +12577,7 @@
 				)
 			)
 		)
-		(property "DK" "732-2701-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12524,7 +12589,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "61900411021"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12760,7 +12825,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12799,7 +12864,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12812,7 +12877,7 @@
 				)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13053,7 +13118,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "DDZ9684-7"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13066,7 +13131,7 @@
 				)
 			)
 		)
-		(property "DK" "DDZ9684-7DICT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13402,7 +13467,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13441,7 +13506,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13454,7 +13519,7 @@
 				)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13693,7 +13758,7 @@
 				)
 			)
 		)
-		(property "DK" "RMCF0805FT12K0CT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14062,7 +14127,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14075,7 +14140,7 @@
 				)
 			)
 		)
-		(property "DK" "311-10KJRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14340,7 +14405,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14592,7 +14657,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14605,7 +14670,7 @@
 				)
 			)
 		)
-		(property "DK" "311-10KJRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14870,7 +14935,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14883,7 +14948,7 @@
 				)
 			)
 		)
-		(property "DK" "311-10KJRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15148,7 +15213,7 @@
 				)
 			)
 		)
-		(property "DK" "1276-1066-1-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15161,7 +15226,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15400,7 +15465,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15413,7 +15478,7 @@
 				)
 			)
 		)
-		(property "DK" "311-1.00KLRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15927,7 +15992,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16180,7 +16245,7 @@
 				)
 			)
 		)
-		(property "DK" "256-W25Q16JVUXIQTRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16193,7 +16258,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "W25Q16JVUXIQ TR"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16513,7 +16578,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17149,7 +17214,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DK" "2073-USB4105-GF-ACT-ND"
+		(property "DK" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17161,7 +17226,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "USB4105-GF-A"
+		(property "PARTNO" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17595,7 +17660,7 @@
 			(net 13 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "80ab0edc-fb65-490f-a6ab-02b388d88d22")
+			(uuid "4e034311-3e7c-4949-83f7-212c8f0c2148")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.105)
@@ -17606,7 +17671,7 @@
 			(net 13 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "80ab0edc-fb65-490f-a6ab-02b388d88d22")
+			(uuid "5923fca3-895a-4b3f-a499-7a1c0e6c7ab3")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.075)
@@ -17617,7 +17682,7 @@
 			(net 13 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "80ab0edc-fb65-490f-a6ab-02b388d88d22")
+			(uuid "befa64ae-c991-4806-8597-572a4dc4180c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD7_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.wrl"
@@ -17687,7 +17752,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(厚声)"
+		(property "Manufacturer" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17726,7 +17791,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402FR-0733RL"
+		(property "PARTNO" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17739,7 +17804,7 @@
 				)
 			)
 		)
-		(property "DK" "311-33.0LRCT-ND"
+		(property "DK" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18112,7 +18177,7 @@
 				)
 			)
 		)
-		(property "DK" "296-TPD1E05U06DYARCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18125,7 +18190,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "TPD1E05U06DYAR"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18157,6 +18222,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "eae50767-31c2-435d-bc52-ee35aae67809")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C3702980"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95013371-574c-4c6a-9a92-120854eafdf9")
 			(effects
 				(font
 					(size 1 1)
@@ -18553,7 +18631,7 @@
 				)
 			)
 		)
-		(property "DK" "WM13195-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18565,7 +18643,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "0353180420"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18776,7 +18854,7 @@
 				)
 			)
 		)
-		(property "Value" "GT-TC029B-H025-L1N"
+		(property "Value" "TS-1088-AR02016"
 			(at 0 4 270)
 			(layer "F.Fab")
 			(uuid "30af4f38-7b3b-4b78-970b-8d945ab581b2")
@@ -18856,6 +18934,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6ad47cb6-ae17-4d0e-9812-1ef2d10571cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C720477"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dfaca6b2-9fe9-4678-8de6-0e1b57f87769")
 			(effects
 				(font
 					(size 1 1)
@@ -19148,7 +19239,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19187,7 +19278,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19200,7 +19291,7 @@
 				)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19688,7 +19779,7 @@
 				)
 			)
 		)
-		(property "DK" "RMCF0402JT5K10CT-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19701,7 +19792,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RMCF0402JT5K10"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19955,7 +20046,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19994,7 +20085,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20007,7 +20098,7 @@
 				)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20248,7 +20339,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "SMBJP6KE6.8A-TP"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20261,7 +20352,7 @@
 				)
 			)
 		)
-		(property "DK" "SMBJP6KE6.8A-TPMSCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20585,7 +20676,7 @@
 				)
 			)
 		)
-		(property "DK" "1276-6840-1-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20598,7 +20689,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20837,7 +20928,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20850,7 +20941,7 @@
 				)
 			)
 		)
-		(property "DK" "311-1.00KLRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21115,7 +21206,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21128,7 +21219,7 @@
 				)
 			)
 		)
-		(property "DK" "311-10KJRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21395,7 +21486,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21434,7 +21525,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21447,7 +21538,7 @@
 				)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21893,7 +21984,7 @@
 			)
 		)
 	)
-	(footprint "bitcart:CONN-TH_6P-P2.00_PHD-2X3A"
+	(footprint "bitcrane:CONN-TH_6P-P2.00_PHD-2X3A"
 		(layer "F.Cu")
 		(uuid "b975dc6f-2217-4553-9a46-b989e55fa88e")
 		(at 159.21 80.245 90)
@@ -21946,7 +22037,7 @@
 				)
 			)
 		)
-		(property "DK" "S9470-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21958,7 +22049,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "SWR204-NRTN-D03-ST-GA"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22022,7 +22113,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "72745fb0-ce58-40aa-8b81-37f403a5b633")
+			(uuid "75737e0e-14b7-43c4-a74c-eccab40fa47f")
 		)
 		(fp_line
 			(start -3.4 -2.15)
@@ -22032,7 +22123,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d3348e18-81af-437a-8207-924a4ccabfd4")
+			(uuid "a6a4f8ca-5ebf-4c52-91ca-24abc4f91c1a")
 		)
 		(fp_line
 			(start 4 -1.1)
@@ -22042,7 +22133,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "046f0f5a-615b-4780-ae3b-14e1806e87f3")
+			(uuid "581e07b0-8498-4639-9450-6044bb3e8d81")
 		)
 		(fp_line
 			(start -3.4 -1.1)
@@ -22052,7 +22143,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9062dc6b-17d6-4bd6-a0ed-5bc62da358b5")
+			(uuid "27521c4d-70b7-42c5-81d6-4cc631ba0506")
 		)
 		(fp_line
 			(start 4 -0.1)
@@ -22062,7 +22153,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "940e6575-e927-442d-8ff3-37fe5b501927")
+			(uuid "58768f22-cced-4a6c-bea1-9df90a995eb0")
 		)
 		(fp_line
 			(start -3.4 -0.1)
@@ -22072,7 +22163,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "37ac595b-d21e-4c8e-98b1-a8ec2e45aafe")
+			(uuid "bbf5e61c-a9b3-4cad-ad64-84695190fb4f")
 		)
 		(fp_line
 			(start 3.4 2.15)
@@ -22082,7 +22173,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c171c568-b678-421d-9dc2-db1e9cd9967a")
+			(uuid "b974b2ff-164b-475e-9527-e524ff0289f5")
 		)
 		(fp_line
 			(start 3.4 2.15)
@@ -22092,7 +22183,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2f078f28-40ae-4255-9ef3-b223df78060f")
+			(uuid "2abb0e54-3176-4753-aa45-48c64d7bdb04")
 		)
 		(fp_line
 			(start 1.5 2.15)
@@ -22102,7 +22193,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0b4ccaf6-630c-4860-9c17-de1017a90976")
+			(uuid "23738046-4aee-44e9-9233-cc84b27f0ea1")
 		)
 		(fp_line
 			(start 0.5 2.15)
@@ -22112,7 +22203,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a0735c4c-f734-48e7-a598-4518989df016")
+			(uuid "eb0de80d-c0a3-4cef-89b5-e91c39514b03")
 		)
 		(fp_line
 			(start -0.5 2.15)
@@ -22122,7 +22213,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6efab830-f0eb-4985-b7e0-a7b5ab64933c")
+			(uuid "6c6e0a5d-f754-427c-bc91-9bd6b5fece06")
 		)
 		(fp_line
 			(start -1.5 2.15)
@@ -22132,7 +22223,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b32d491d-e8b0-4492-9266-ac45ba34e9a9")
+			(uuid "20a48005-8b36-40c6-aed7-0d56e82cedc1")
 		)
 		(fp_line
 			(start -3.4 2.15)
@@ -22142,7 +22233,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "67151310-87d6-40b4-bff5-3f1632342fea")
+			(uuid "489b0866-27e6-4504-be2c-1c117cb06271")
 		)
 		(fp_line
 			(start 4 2.5)
@@ -22152,7 +22243,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6b4ee65e-8d7f-4a6c-bc7e-c0e396e02274")
+			(uuid "b8d5f2de-da72-440d-92cd-4c16c8f36733")
 		)
 		(fp_line
 			(start 4 2.5)
@@ -22162,7 +22253,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "db0efb9e-5cc7-4d07-8656-9d92f605c549")
+			(uuid "73847d34-d95d-401b-a69b-7220cedea69e")
 		)
 		(fp_line
 			(start -4 2.5)
@@ -22172,7 +22263,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "85e27efb-483f-4bb2-b4ee-542bdbaa660e")
+			(uuid "bcfa6f07-1673-4bd7-adf3-b3aee843620f")
 		)
 		(fp_line
 			(start 1.99 2.93)
@@ -22182,7 +22273,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d2f7eedb-e7f7-43a7-8862-3fa364a204c8")
+			(uuid "2826c28f-e9c3-4ffd-95f8-87f364844e41")
 		)
 		(fp_line
 			(start 2.4 3.7)
@@ -22192,7 +22283,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4c6491f2-33fe-4274-9f30-be11ae8cf002")
+			(uuid "7dab983c-8bda-40d8-920d-0dac73cfe93a")
 		)
 		(fp_line
 			(start 1.6 3.7)
@@ -22202,7 +22293,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ec760575-eff7-4760-bdeb-e2661f9169cc")
+			(uuid "35955ab9-1cb8-4e11-b15c-38d1509bcc65")
 		)
 		(fp_circle
 			(center 2 -1)
@@ -22213,7 +22304,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "70d92da7-35e0-41f9-b3df-9b374d3ba0f0")
+			(uuid "6c6429d1-e990-4648-8f9e-c5eeba020100")
 		)
 		(fp_circle
 			(center 0 -1)
@@ -22224,7 +22315,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "b5da2d2e-0a93-49b9-adf5-70077c27f795")
+			(uuid "c29b802b-6922-40b5-b443-5c1c2f19b88d")
 		)
 		(fp_circle
 			(center -2 -1)
@@ -22235,7 +22326,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "881dd636-0c3e-428b-ac89-64f7e4513e74")
+			(uuid "35b7416c-cd24-4169-8484-5d380cafbd2c")
 		)
 		(fp_circle
 			(center 2 1)
@@ -22246,7 +22337,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "1e79e444-30d2-4b63-8f83-c2485f05f68d")
+			(uuid "595717b5-921b-4db0-98af-7dc734876468")
 		)
 		(fp_circle
 			(center 0 1)
@@ -22257,7 +22348,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "f4298526-e570-498d-b642-31d22a9627db")
+			(uuid "12d633b9-d270-4b64-84db-2638fc0e6ffc")
 		)
 		(fp_circle
 			(center -2 1)
@@ -22268,7 +22359,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "170b2181-407e-4c28-981a-b035e6bc5f60")
+			(uuid "91d57e6c-978b-4c17-af3e-ed360bd72a48")
 		)
 		(fp_circle
 			(center 4.13 3.83)
@@ -22279,7 +22370,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "fe4dd908-be9b-4509-a71b-522e69dc9210")
+			(uuid "694d64f9-b028-4edb-a68b-9e2323561789")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -22424,7 +22515,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22676,7 +22767,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "BSS138K-13"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22689,7 +22780,7 @@
 				)
 			)
 		)
-		(property "DK" "BSS138K-13DICT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22721,6 +22812,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bc5e4326-ae69-46f0-8e3d-9baf9ce34de0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C5248642"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6b50665-e5a6-4bd8-9165-a6a0384baab8")
 			(effects
 				(font
 					(size 1 1)
@@ -23056,7 +23160,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(厚声)"
+		(property "Manufacturer" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23095,7 +23199,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402FR-0733RL"
+		(property "PARTNO" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23108,7 +23212,7 @@
 				)
 			)
 		)
-		(property "DK" "311-33.0LRCT-ND"
+		(property "DK" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23347,7 +23451,7 @@
 				)
 			)
 		)
-		(property "DK" "1276-6840-1-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23360,7 +23464,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23601,7 +23705,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "DDZ9684-7"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23614,7 +23718,7 @@
 				)
 			)
 		)
-		(property "DK" "DDZ9684-7DICT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23950,7 +24054,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "TPD1E05U06DYAR"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23963,7 +24067,7 @@
 				)
 			)
 		)
-		(property "DK" "296-TPD1E05U06DYARCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23995,6 +24099,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "14ca7e49-f535-4cdb-9852-b9a53dbff3db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C3702980"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c59203f-2200-46ae-af89-2bd5d9a48dd2")
 			(effects
 				(font
 					(size 1 1)
@@ -24276,7 +24393,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24315,7 +24432,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24328,7 +24445,7 @@
 				)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24567,7 +24684,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24580,7 +24697,7 @@
 				)
 			)
 		)
-		(property "DK" "311-1.00KLRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25003,7 +25120,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25016,7 +25133,7 @@
 				)
 			)
 		)
-		(property "DK" "311-1.00KLRCT-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25270,7 +25387,7 @@
 				)
 			)
 		)
-		(property "DK" "2648-SC0914(13)CT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25283,7 +25400,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "SC0914(13)"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26132,7 +26249,7 @@
 			)
 		)
 	)
-	(footprint "bitcart:CONN-TH_X2026WV-2-09D-46SN"
+	(footprint "bitcrane:CONN-TH_X2026WV-2-09D-46SN"
 		(layer "F.Cu")
 		(uuid "dc87f74f-686c-48ea-937a-68ea228de428")
 		(at 93.5 41.97)
@@ -26197,7 +26314,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "X2026WV-2x09D-46SN"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26260,7 +26377,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "368be140-b170-4cc0-9f94-939c32c69eba")
+			(uuid "1b25eb7c-4ecb-4568-b563-7027df370a7f")
 		)
 		(fp_line
 			(start -10 -3.65)
@@ -26270,7 +26387,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0f8194df-d3ee-4fff-b874-99d636ee2a6c")
+			(uuid "b9169ce9-65e7-443c-b3a8-be2650385dc0")
 		)
 		(fp_line
 			(start 10 -3.65)
@@ -26280,7 +26397,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a488dcb2-5d7a-47e9-9f8c-313b8b7c31ef")
+			(uuid "be4de765-5e68-417d-b2fc-77c9eeca05eb")
 		)
 		(fp_line
 			(start 10 3.65)
@@ -26290,7 +26407,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d262ff7a-f94f-4162-9445-d0e1a9c40d34")
+			(uuid "2694e5ff-f455-4d84-9d13-9473d27fba1c")
 		)
 		(fp_rect
 			(start -8.968 -1.932)
@@ -26301,7 +26418,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "381dc3e9-090b-430c-8cdb-e292c89c0109")
+			(uuid "71212f34-9574-4d4e-a521-a9a5535fbb2a")
 		)
 		(fp_rect
 			(start -10.55 -4.229)
@@ -26312,7 +26429,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "58096981-ccc8-40b8-a265-46e088cf2df3")
+			(uuid "e8ccbeff-f5c8-4dcd-834a-dce84fdedfa3")
 		)
 		(fp_line
 			(start -8 3.666)
@@ -26322,7 +26439,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c044d80d-b720-499c-a3b2-f69501ee6fa0")
+			(uuid "89ba7aa1-07f3-42d5-ac78-42ba11bd37df")
 		)
 		(fp_line
 			(start 8 3.68)
@@ -26332,7 +26449,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6d222139-07f9-480f-b8b7-00e02512995c")
+			(uuid "e37d6903-6669-4724-aa0b-4afbfcbba551")
 		)
 		(fp_line
 			(start 8 4.38)
@@ -26342,7 +26459,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ab760e17-2da3-4117-9047-fe23dccb0ca1")
+			(uuid "12a626a8-914e-4ab8-873b-0079082c7543")
 		)
 		(fp_circle
 			(center 10 4.35)
@@ -26353,7 +26470,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "aee4f862-deba-46a5-8e4b-3a0430500761")
+			(uuid "b86f9fba-7e95-4795-bc26-a42294d5b611")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.251 7.028 0)
@@ -26630,7 +26747,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26882,7 +26999,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27136,7 +27253,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "DDZ9684-7"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27149,7 +27266,7 @@
 				)
 			)
 		)
-		(property "DK" "DDZ9684-7DICT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27485,7 +27602,7 @@
 				)
 			)
 		)
-		(property "DK" "311-49.9KLRCT-ND"
+		(property "DK" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27498,7 +27615,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "RC0402FR-0749K9L"
+		(property "PARTNO" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27752,7 +27869,7 @@
 				)
 			)
 		)
-		(property "DK" "490-18663-1-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27764,7 +27881,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "GRM21BR61H106KE43L"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28017,7 +28134,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28056,7 +28173,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "KGM05AR71C104KH"
+		(property "PARTNO" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28069,7 +28186,7 @@
 				)
 			)
 		)
-		(property "DK" "478-KGM05AR71C104KHCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28308,7 +28425,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28560,7 +28677,7 @@
 				)
 			)
 		)
-		(property "DK" "311-4.70KCRCT-ND"
+		(property "DK" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28759,12 +28876,12 @@
 			)
 		)
 	)
-	(footprint "bitcart:CONN-TH_X2026WV-2-09D-46SN"
+	(footprint "bitcrane:CONN-TH_X2026WV-2-09D-46SN"
 		(layer "F.Cu")
 		(uuid "f75a4700-4f45-47af-84f9-faddffd59137")
 		(at 72.07 56)
 		(property "Reference" "J5"
-			(at -8.79 -4.5 0)
+			(at -8.283 -4.518 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b6816a5d-9075-4d55-9cca-92fc9b99798d")
@@ -28824,7 +28941,7 @@
 				)
 			)
 		)
-		(property "PARTNO" "X2026WV-2x09D-46SN"
+		(property "PARTNO" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28887,7 +29004,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8f327a5f-df51-4440-9437-3b5c0052ceac")
+			(uuid "9b3db691-fd5e-4355-a2e5-56bd6a3ea2df")
 		)
 		(fp_line
 			(start -10 -3.65)
@@ -28897,7 +29014,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2338e602-0287-4c65-94f0-13d2c7f723a0")
+			(uuid "208c0228-c04c-4035-8c91-494dab7a8e8a")
 		)
 		(fp_line
 			(start 10 -3.65)
@@ -28907,7 +29024,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9548e706-64c6-4a9f-a396-18edcb8d886a")
+			(uuid "46765d26-61be-43c5-8dcf-cbfa03da1568")
 		)
 		(fp_line
 			(start 10 3.65)
@@ -28917,7 +29034,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "39f75229-eff3-4428-a206-65479340e0fd")
+			(uuid "53dd6b16-d0fe-4d08-af04-d782865b37ae")
 		)
 		(fp_rect
 			(start -8.968 -1.932)
@@ -28928,7 +29045,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "ba6f0016-da54-4478-a1ec-af97adba560e")
+			(uuid "fcb17ba7-012e-42ce-9abc-e85eec1b8a6c")
 		)
 		(fp_rect
 			(start -10.55 -4.229)
@@ -28939,7 +29056,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "74b95d67-4474-43a5-863a-90128e019548")
+			(uuid "0746debe-fa28-40d9-991b-f0318fdea160")
 		)
 		(fp_line
 			(start -8 3.666)
@@ -28949,7 +29066,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "dedf3fd8-46a8-4951-9fc8-6709bd3050dc")
+			(uuid "a4ed5486-6acf-4119-a63a-a7c98a60d015")
 		)
 		(fp_line
 			(start 8 3.68)
@@ -28959,7 +29076,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0bc5ed21-8e7e-44e6-97e6-428bf41d3832")
+			(uuid "b84b5caa-4750-4e3f-90f9-4bbea1a40cb6")
 		)
 		(fp_line
 			(start 8 4.38)
@@ -28969,7 +29086,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ba2608a3-569a-4a71-a23f-ee4aab537732")
+			(uuid "96cc0547-f8ab-4566-9e5d-903aeb16d867")
 		)
 		(fp_circle
 			(center 10 4.35)
@@ -28980,7 +29097,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "84f14566-8a7a-463b-bc9d-32831828e719")
+			(uuid "31e38dab-f309-4e45-8175-efb6fc07285f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.251 7.028 0)
