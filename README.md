@@ -1,4 +1,4 @@
-![bitcrane logo](doc/bitcrane.png "Logo")
+![bitcrane render](doc/render.png "Bitcrane Render")
 
 Bitcrane can fully control a Bitmain Antminer over a single USB connection.
 

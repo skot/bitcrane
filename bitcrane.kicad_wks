@@ -149,32 +149,6 @@
 		(name "")
 		(pos 109 17)
 	)
-	(tbtext "${COMPANY}"
-		(name "")
-		(pos 109 20)
-		(font bold)
-		(comment "Company name")
-	)
-	(tbtext "${COMMENT1}"
-		(name "")
-		(pos 109 23)
-		(comment "Comment 0")
-	)
-	(tbtext "${COMMENT2}"
-		(name "")
-		(pos 109 26)
-		(comment "Comment 1")
-	)
-	(tbtext "${COMMENT3}"
-		(name "")
-		(pos 109 29)
-		(comment "Comment 2")
-	)
-	(tbtext "${COMMENT4}"
-		(name "")
-		(pos 109 32)
-		(comment "Comment 3")
-	)
 	(line
 		(name "")
 		(start 90 8.5)
@@ -2127,5 +2101,13 @@
 			"GAKGgCFgCBgChoAhYAgYAoaAIWAIGAKGgCFgCBgChoAhYAgYAoaAIWAIGAKGgCFgCBgChoAhYAgY"
 			"AoaAIWAIGAKGgCFgCBgChoAhYAgYAoaAIWAIGAKGwJIh8H9cVv3yAMMQ8gAAAABJRU5ErkJggg=="
 		)
+	)
+	(tbtext "License: ${COMMENT1}"
+		(name "")
+		(pos 44.909 14.2122)
+	)
+	(tbtext "FOSS || GTFO"
+		(name "")
+		(pos 43.399 3.6022)
 	)
 )
