@@ -13,7 +13,7 @@ Bitcrane can fully control a Bitmain Antminer over a single USB connection.
 
 
 ## TODO
-- RP2040 firmware, based on [Bitaxe-raw](https://github.com/bitaxeorg/bitaxe-raw/tree/pico)	pico branch.
+- RP2040 firmware, based on [emberone-usbserial-fw](https://github.com/256foundation/emberone-usbserial-fw/tree/bitcrane-v3) bitcrane-v3 branch WIP
 - [Mujina](https://mujina.org) mining firmware support.
 - Custom Antminer faceplate.
 - [Dismantle the proprietary Bitcoin mining empire](https://256foundation.org)
