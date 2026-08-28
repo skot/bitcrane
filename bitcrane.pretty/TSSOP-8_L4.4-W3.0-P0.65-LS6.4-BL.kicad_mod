@@ -192,7 +192,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "2c1db797-3265-4dca-989e-c248ab0f4bc4")
 	)
-	(model "${KIPRJMOD}/3d/TSSOP-8_L3.0-W4.4-H1.0-LS6.4-P0.65.wrl"
+	(model "${KIPRJMOD}/3d/TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BL-2.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -200,7 +200,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 90)
+			(xyz 0 0 0)
 		)
 	)
 )

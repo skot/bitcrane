@@ -176,7 +176,7 @@
 		(remove_unused_layers no)
 		(uuid "bf36bde1-dd9e-43de-8f53-78d5ee927239")
 	)
-	(model "/Users/skot/Bitcoin/bitcrane/PCB/3d/CONN-TH_MX4.20-WI-2x2P.wrl"
+	(model "${KIPRJMOD}/3d/CONN-TH_MX4.20-WI-2x2P.step"
 		(offset
 			(xyz -2 -2.7 0)
 		)

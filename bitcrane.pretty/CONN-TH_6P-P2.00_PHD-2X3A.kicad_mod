@@ -443,7 +443,7 @@
 		(uuid "285e9fba-7af5-4dd1-9fd2-09b2f9350613")
 	)
 	(embedded_fonts no)
-	(model "/Users/skot/Documents/KiCad/easyeda2kicad/lcsc.3dshapes/CONN-TH_6P-P2.00_PHD-2X3A.wrl"
+	(model "${KIPRJMOD}/3d/CONN-TH_6P-P2.00_PHD-2X3A.step"
 		(offset
 			(xyz 0 -0 0)
 		)

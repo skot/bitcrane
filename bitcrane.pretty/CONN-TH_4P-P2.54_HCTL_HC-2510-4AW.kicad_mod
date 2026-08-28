@@ -175,7 +175,7 @@
 		(remove_unused_layers no)
 		(uuid "afd38589-5877-4992-8093-618d4bcd5c6b")
 	)
-	(model "/Users/skot/Bitcoin/bitcrane/PCB/3d/CONN-TH_4P-P2.54_HCTL_HC-2510-4AW.wrl"
+	(model "${KIPRJMOD}/3d/CONN-TH_4P-P2.54_HCTL_HC-2510-4AW.step"
 		(offset
 			(xyz 0 -1.3 3)
 		)

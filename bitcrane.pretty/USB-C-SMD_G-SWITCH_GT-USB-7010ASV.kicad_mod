@@ -253,7 +253,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "2ffff8b4-d6e7-4233-ad6b-7ac1dcf8f618")
 	)
-	(model "/Users/skot/Bitcoin/bitcrane/PCB/3d/USB-C-SMD_G-SWITCH_GT-USB-7010ASV.wrl"
+	(model "${KIPRJMOD}/3d/USB-C-SMD_G-SWITCH_GT-USB-7010ASV.step"
 		(offset
 			(xyz 0 -1 0)
 		)

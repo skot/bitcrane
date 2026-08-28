@@ -168,7 +168,7 @@
 		(uuid "3ca7aa2f-9b29-4e66-903d-144737c51ec9")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/3d/SOT-23-3L_L2.9-W1.6-H1.1-LS2.8-P0.95.wrl"
+	(model "${KIPRJMOD}/3d/SOT-23-3L_L2.9-W1.6-H1.1-LS2.8-P0.95.step"
 		(offset
 			(xyz 0 -0 -0)
 		)

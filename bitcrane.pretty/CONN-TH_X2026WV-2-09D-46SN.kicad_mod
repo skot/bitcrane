@@ -374,7 +374,7 @@
 		(uuid "a5a006b8-6d68-428e-a0fb-5aabff3e510a")
 	)
 	(embedded_fonts no)
-	(model "/Users/skot/Documents/KiCad/easyeda2kicad/lcsc.3dshapes/CONN-TH_X2026WV-2-09D-46SN.wrl"
+	(model "${KIPRJMOD}/3d/CONN-TH_X2026WV-2-09D-46SN.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -171,7 +171,7 @@
 		(uuid "68fa7be3-5e87-484f-bffe-ec325cd96df4")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/3d/POWERPAK-1212-8_L3.1-W3.1-P0.65-LS3.3-BL.wrl"
+	(model "${KIPRJMOD}/3d/POWERPAK-1212-8_L3.1-W3.1-P0.65-LS3.3-BL.step"
 		(offset
 			(xyz 0 0 0.2)
 		)

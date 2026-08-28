@@ -236,7 +236,7 @@
 		(uuid "63159d4a-364a-4d0c-bd54-5f10b2610c44")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/3d/LED-SMD_4P-L4.0-W1.6-L.wrl"
+	(model "${KIPRJMOD}/3d/LED-SMD_4P-L4.0-W1.6-L.step"
 		(offset
 			(xyz -0.05 -0.5 1)
 		)
