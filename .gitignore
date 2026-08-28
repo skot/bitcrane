@@ -32,7 +32,8 @@ fp-info-cache
 *bak
 
 *.zip
-
-# Manufacturing files
-manufacturing files/
-
+*-backups/
+*.lck
+\#auto_saved_files#
+.DS_Store
+Manufacturing Files
